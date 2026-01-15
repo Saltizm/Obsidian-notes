@@ -1,0 +1,1 @@
+- External with limited insider knowledge

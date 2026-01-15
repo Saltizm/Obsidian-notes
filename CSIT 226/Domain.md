@@ -1,0 +1,1 @@
+The area of work under study (eg graphic design, medicine)

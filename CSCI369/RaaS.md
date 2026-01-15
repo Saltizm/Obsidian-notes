@@ -1,0 +1,1 @@
+- service provided by a developer to enable amateur attacks to perform ransomware attacks.

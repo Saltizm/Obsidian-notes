@@ -1,0 +1,2 @@
+- Collection of Objects sequenced in [[Organisation Units]]
+- Used to assign permissions to different Objects 

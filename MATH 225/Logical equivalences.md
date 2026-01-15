@@ -1,0 +1,1 @@
+![[logical equivalence formulas|2000]]

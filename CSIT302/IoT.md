@@ -1,0 +1,2 @@
+- Internet of things refers to appliances that are connected to the internet
+- Is a point of [[Security Vulnerability]]

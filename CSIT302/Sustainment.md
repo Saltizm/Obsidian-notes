@@ -1,0 +1,4 @@
+- Attacker remain silent
+- [[Rootkits]] are installed to sustain access
+- Multiple access points sustain access
+- attackers are impervious to detection/determent if at this stage

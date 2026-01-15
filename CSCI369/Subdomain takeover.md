@@ -1,0 +1,3 @@
+- use [[Recon-ng]] or [[Subfinder]]
+- scan for inactive domains (No host)
+- Create a virtual host for the domain 

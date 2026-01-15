@@ -1,0 +1,1 @@
+General management technique used to determine whether an organization should make or perform a particular product or service inside the organization or buy from someone else

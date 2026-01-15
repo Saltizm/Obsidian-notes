@@ -1,0 +1,2 @@
+- Use after free
+- refers to [[RCE|executing remote code]] in freed memory (flush)

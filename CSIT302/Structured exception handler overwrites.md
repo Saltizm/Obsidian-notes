@@ -1,0 +1,2 @@
+- Exploiting a [[Structured exception handling]] to correct non-existent errors
+- used with a [[Buffer overflow]] (sometimes :sob:)

@@ -1,0 +1,3 @@
+- Internal test
+	- Operates within the network perimeters (full internal knowledge)
+- Simulating a insider attack

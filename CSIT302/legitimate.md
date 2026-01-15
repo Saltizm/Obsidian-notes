@@ -1,0 +1,2 @@
+- Legitimate processes are harder to detect to be fraudulent 
+- Leaves no traces as it is encrypted

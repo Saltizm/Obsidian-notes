@@ -1,0 +1,1 @@
+![[Gannt chart pict.webp]]

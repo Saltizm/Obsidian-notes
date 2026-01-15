@@ -1,0 +1,1 @@
+- John the Ripper, THC Hydra and Cain and Abel: Those tools support brute force or dictionary attacks on passwords.

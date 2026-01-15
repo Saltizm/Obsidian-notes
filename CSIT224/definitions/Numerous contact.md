@@ -1,0 +1,1 @@
+Good network, more reach and influence means more can help and resources and be employed 

@@ -1,0 +1,1 @@
+A null set is a proper subset of any set.

@@ -1,0 +1,1 @@
+convert (information or an instruction) into a particular form.

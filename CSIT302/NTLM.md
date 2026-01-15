@@ -1,0 +1,2 @@
+- Active Directory Database (NTDS.dit)
+- Stored in [[LSASS]] [[Random access memory|memory]] (on logged on system)

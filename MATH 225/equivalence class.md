@@ -1,0 +1,1 @@
+![[equivalence class explained|1000]]

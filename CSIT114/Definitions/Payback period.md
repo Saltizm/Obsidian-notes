@@ -1,0 +1,1 @@
+The time period after which the dollar benefits have offset the dollar costs

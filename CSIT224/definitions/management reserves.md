@@ -1,0 +1,1 @@
+Emergency funds sets aside by the organisation for **unknown risks**. Usually held by the organisation.

@@ -1,0 +1,3 @@
+- Big data lifecycle and related concepts
+- Big data processing models and methodology
+- data Pre-processing and Post-processing techniques (Implemented)

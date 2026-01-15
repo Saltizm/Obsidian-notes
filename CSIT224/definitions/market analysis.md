@@ -1,0 +1,1 @@
+a detailed assessment of your business's target market and the competitive landscape within a specific industry

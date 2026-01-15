@@ -1,0 +1,1 @@
+- Complex file parsers (PDF, XML, JPEG) often crash on malformed inputs, revealing [[RCE]] opportunities.

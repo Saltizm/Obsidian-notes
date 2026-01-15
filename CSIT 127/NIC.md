@@ -1,0 +1,1 @@
+A Network interface card is a [[Datalink layer]] device.

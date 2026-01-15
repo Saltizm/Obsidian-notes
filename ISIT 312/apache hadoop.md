@@ -1,0 +1,1 @@
+![[hadoop mapper reducer drawing|1000]]

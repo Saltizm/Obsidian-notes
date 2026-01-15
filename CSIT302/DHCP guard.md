@@ -1,0 +1,2 @@
+- [[DHCP]] filtering feature developed by cisco 
+- Only devices with [[MAC address]] that are registered on the system can send request to DHCP server 

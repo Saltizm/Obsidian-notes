@@ -1,0 +1,3 @@
+- Hacking for harm to individuals or groups
+- Usually for political reasons
+- Act eccentrically and doesn't work in secrecy 

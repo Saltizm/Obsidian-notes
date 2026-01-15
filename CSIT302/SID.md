@@ -1,0 +1,2 @@
+- Security ID
+- Stored in the [[Active directory]] in the [[LSASS]]

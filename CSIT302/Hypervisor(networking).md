@@ -1,0 +1,4 @@
+- A software that manage
+	- Pooling of computing resources
+	- Rules and permissions 
+- of [[Virtualisation|Virtual machines]] 

@@ -1,0 +1,1 @@
+Experts both from inside and outside an organization can provide excellent advice in planning purchases and acquisitions

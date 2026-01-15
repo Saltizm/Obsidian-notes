@@ -1,0 +1,3 @@
+- Index that is mapped to NON [[Primary key]] column
+- There can be more than 1
+- Created automatically on UNIQUE constraint

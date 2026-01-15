@@ -1,0 +1,1 @@
+Point in time at which benefits and costs are equal

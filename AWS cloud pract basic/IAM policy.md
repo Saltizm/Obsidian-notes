@@ -1,0 +1,3 @@
+- Deny rules take precedence over Allow rules in policy document
+- IAM runs on Least privilege. 
+	- IF not granted permission defaults is deny,
