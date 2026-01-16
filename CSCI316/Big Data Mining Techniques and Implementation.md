@@ -49,11 +49,7 @@ Why?
 - Problem definition to meet the client's needs
 - Mining method selection
 - Output interpretation 
-#### Methods --
-1. K-nearest neighbors (KNN)
-	- Pros : Easy implementation for small projects
-	- Cons : Poor scalability
-(ADD later)
+
 #### Factors --
 #### Imbalance
 Refer to how skewed are the class/feature frequency
@@ -118,3 +114,61 @@ Changing formats enough said.
 sgd to ringit
 american date to british date
 current time to time elapsed 
+
+#### Binning 
+Separate into ranges (bins) and assign values 
+#### Normalisation
+Convert into common range
+- Redistrubutes skewed data 
+#### Filtering
+Types:
+- Instance filter
+- Attribute filter
+- Value filter
+#### Data sampling
+select a subset of data to represent population
+Purpose - reduce chance of **Overfitting**
+types:
+- Simple random sampling
+	- Downside: Might be biased. (sample not representative)
+- Stratified sampling
+- types:
+	- Separate into partitions. Draw random samples from each partition
+	- Classified first by measure before SRS.
+#### Imbalanced data
+Imbalance in samples. i.e. More of cats than dogs 
+results in under/over sampling
+
+---
+### Data mining
+data mining - obtain valuable output that reveals patterns and insights from big data
+#### Algorithms 
+-  K-nearest neighbors (KNN)
+	- If it quacks like a duck it is a duck. 
+	- labels records based on nearest neighbor (sample that is closest to it)
+	- Pros : Easy implementation for small projects
+	- Cons : Poor scalability
+SciKit-Learn - ML library. fully implemented common models
+DF/Data frame - 2d data structure
+Pandas - Data struct library
+
+#### Plots
+> housing = strat_train_set.copy() > housing.plot(kind="scatter", x="longitude", y="latitude", alpha=0.1)
+
+regular plot 
+![[Pasted image 20260116150651.png]]
+> corr_matrix = housing.corr() > corr_matrix["median_house_value"].sort_values(ascending=False)
+
+heat map (4D plot)
+![[Pasted image 20260116150722.png]]
+
+#### Attribute correlation 
+
+![[Pasted image 20260116235826.png]]
+diagonal indicates xx and yy relations 
+The rest are attribute correlations
+#### Defining new attributes
+Secondary attribute -> Primary attribute (operation)
+i.e. rooms_per_household = rooms/household
+
+Secondary attribute might have better attribute correlation

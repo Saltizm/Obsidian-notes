@@ -3,3 +3,7 @@ Project metrics
 - Stringent Constraints and conditions (questions every assumption)
 NFL principle (no free lunch):
 - Talk about the benefits -> so what is the cost 
+Long tail - wide value range high sd 
+
+
+chapter 4 kinda important 
