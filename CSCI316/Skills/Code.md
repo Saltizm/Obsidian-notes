@@ -36,3 +36,5 @@ sklearn OneHotEncoder() object - data values into attributes. letter{a,b,c} -> a
 sklearn RSME
 a = mean_squared_error(x, y)
 b = np.sqrt(a)
+
+![[Pasted image 20260123173434.png]]

@@ -172,3 +172,36 @@ Secondary attribute -> Primary attribute (operation)
 i.e. rooms_per_household = rooms/household
 
 Secondary attribute might have better attribute correlation
+#### Sklearn encoding
+take example 
+
+| colour | saturation |
+| ------ | ---------- |
+| Blue   | 100        |
+| Yellow | 1          |
+| Red    | 50         |
+
+##### One hot encoding
+turns definite range into a matrix of 1 and 0 (boolean)
+
+| saturation | Blue | Red | Yellow |
+| ---------- | ---- | --- | ------ |
+| 100        | 1    | 0   | 0      |
+| 1          | 0    | 1   | 0      |
+| 50         | 0    | 0   | 1      |
+##### Ordinary encoding
+turns indefinite range into category
+
+| colour | saturation |
+| ------ | ---------- |
+| Blue   | 2 (high)   |
+| Yellow | 0 (low)    |
+| Red    | 1 (medium) |
+##### Feature scaling
+min max scaling - put into a range (0-1)
+standardisation - subtract mean from every value to normalise
+
+Why?
+- learning models fare better with numbers with a small range as its easier on computation
+##### Evaluation
+RSME, Decision tree.
