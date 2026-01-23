@@ -12,3 +12,4 @@ y - actual / ground truth
 
 y^i
 i refer to the sample 
+$$D_t\ -decision\ tree\ made\ from\ node\ t$$

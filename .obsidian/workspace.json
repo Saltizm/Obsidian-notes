@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "8baf84717b94da4e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CSCI316/4 End-to-End Big Data Lifecycle.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "4 End-to-End Big Data Lifecycle"
-            }
-          },
-          {
             "id": "d24db508aa079a11",
             "type": "leaf",
             "state": {
@@ -197,11 +185,67 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
+  "floating": {
+    "id": "64b3cf66bbcd941d",
+    "type": "floating",
+    "children": [
+      {
+        "id": "b82bcd1daf55ba0d",
+        "type": "window",
+        "children": [
+          {
+            "id": "ecffb286d3db7c34",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0509b6fa67fb0708",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "CSCI316/4 End-to-End Big Data Lifecycle.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "4 End-to-End Big Data Lifecycle"
+                }
+              },
+              {
+                "id": "729ec3a7c586b9cc",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "CSCI316/5 Classification by Splitting Data.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "5 Classification by Splitting Data"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical",
+        "x": 549,
+        "y": 1044,
+        "width": 1648,
+        "height": 992,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "ca12107c32219db6",
   "lastOpenFiles": [
-    "CSCI316/4 End-to-End Big Data Lifecycle.pdf",
-    "CSCI316/Big Data Mining Techniques and Implementation.md",
     "CSCI316/Skills/Code.md",
+    "CSCI316/5 Classification by Splitting Data.pdf",
+    "CSCI316/Big Data Mining Techniques and Implementation.md",
+    "CSCI316/Skills/FORMULAS.md",
+    "attachements/Pasted image 20260123182545.png",
+    "attachements/Pasted image 20260123181436.png",
+    "CSCI316/Skills/Big data project life cycle.md",
+    "Decision tree.md",
+    "CSCI316/4 End-to-End Big Data Lifecycle.pdf",
     "attachements/Pasted image 20260123173434.png",
     "CSCI316/out of hand remarks.md",
     "CSCI218/Tutorial 1.md",
@@ -214,14 +258,11 @@
     "CSCI218/Lecture slides/T4-NaturalLanguage_Processing-I.pdf",
     "CSCI218/Lecture slides/T3-ComputerVision.m3DlvSRF.pdf.part",
     "CSCI218/Lecture slides/T3-ComputerVision.pdf",
-    "CSCI218/Lecture slides/T2-Learning-II.pdf",
-    "CSCI316/Skills/Big data project life cycle.md",
     "attachements/Pasted image 20260116235826.png",
     "attachements/Pasted image 20260116150722.png",
     "attachements/Pasted image 20260116150651.png",
     "CSCI316/Goals.md",
     "CSCI316/Job prospects.md",
-    "CSCI316/Skills/FORMULAS.md",
     "attachements/Pasted image 20260115224935.png",
     "CSCI316/Skills/PLOTS.md",
     "attachements/Pasted image 20260115223256.png",
@@ -235,14 +276,11 @@
     "attachements/Pasted image 20260111013737.png",
     "Excalidraw/1NF.md",
     "CSIT 235/BCNF.md",
-    "attachements/Pasted image 20260110220453.png",
-    "attachements/Pasted image 20260110001407.png",
     "CSCI316/Responsibilty/Data Collection.md",
     "AWS cloud pract basic/IAM policy.md",
     "AWS cloud pract basic/Lightsail.md",
     "AWS cloud pract basic/gaps.md",
     "AWS cloud pract basic/AWS.md",
-    "thm/UDF exploit.md",
-    "CSIT302/Nmap.md"
+    "thm/UDF exploit.md"
   ]
 }

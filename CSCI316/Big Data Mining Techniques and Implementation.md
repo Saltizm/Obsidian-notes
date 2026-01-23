@@ -203,5 +203,30 @@ standardisation - subtract mean from every value to normalise
 
 Why?
 - learning models fare better with numbers with a small range as its easier on computation
-##### Evaluation
-RSME, Decision tree.
+##### Evaluation (deduction)
+RSME, [[Decision tree]].
+### Decision tree
+![[Pasted image 20260123181436.png|500]]
+**Splitting of data set** according to the decision ( value ) of the attribute.
+The leaf (outcome) is the majority class's value. (need not be 100%)
+
+>[!practice]-
+>Practice starting with taxable income.
+>![[Pasted image 20260123182545.png|500]]
+>##### Personal observation
+>Use ordinary encoding and categories the certain fields (>120k means not loyal).
+>However this does not cover every sample.
+>There is very little correlation with between the two fields 
+
+Used for deduction: 
+use test sample to go down the decision tree to check if the class value derived from the tree is the same as the test sample
+
+#### Building a decision tree
+Hunt's algorithm
+- Let D^[t] be the data that is received by node _t_
+- If D^[t] is entirely contain one class value. create a Y^[t]
+- if D^[t] empty. D^[t] -> Y^[t] 
+- if theres is no more t. Take majority vote -> D^[t] -> Y^[t]
+- otherwise:
+	- split by y 
+	- recursive call < Y^[t] + D^[t+1] >
