@@ -38,3 +38,15 @@ a = mean_squared_error(x, y)
 b = np.sqrt(a)
 
 ![[Pasted image 20260123173434.png]]
+![[Pasted image 20260228001241.png]]
+![[Pasted image 20260228001252.png]]
+
+#### Gini index
+- chance random guessing a label according to class distribution a random sample  
+$$\text{Gini} = 1 - \sum_{i=1}^{J} p_i^2$$
+#### Variance
+- distribution of sample
+- used in preprocessing to check for sparsity
+$$\sigma(D)=p(1-p)$$
+prepruned
+![[splitdecision diagram|1000]]

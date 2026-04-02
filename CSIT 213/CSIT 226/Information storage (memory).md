@@ -12,7 +12,7 @@ However short term memory has a limit. If there is not, everyone would be able t
 The [[Cognitive Load Theory]] takes into account this limit to optimise learning.
 
 Methods for increasing learning:
-- [[Training-wheel methods/scaffolding]]
+- [[scaffolding]]
 	- fundamental functions made initially available 
 	- advanced functions slowly introduced with increase expertise
 ![[training wheel example.png|500]]

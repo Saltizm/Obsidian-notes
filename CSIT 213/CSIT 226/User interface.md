@@ -24,7 +24,7 @@ How the information is presented to the user from the system?
 How should the user enter information( communicate ) with the system?
 
 This can be answered by inferring from the 
-[[Execution/Evaluation Action cycle]](EEC)
+[[Evaluation Action cycle]](EEC)
 
 With the initial requirements addressed we can move on to forming the [[Layered Framework]] 
 
@@ -38,7 +38,7 @@ why care about UI?:
 interactions with technology is cognitive ([[Information IO]])
 Therefore, [[Cognitive Load Theory|limitations]] has to be accounted for
 
-UI also better connect the application's [[mapping]] with the user's [[mental model]].
+UI also better connect the application's [[Mapping]] with the user's [[mental model]].
 UI also provide [[Constraint and Affordance|guidance]] to the users for a better interactive product.  
 
 

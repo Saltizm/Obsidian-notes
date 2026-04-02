@@ -26,7 +26,7 @@ Requirements are separated into two categories:
 	- Legs on a table
 
 **Non-functional**
-- URPs ([[usability]], reliability, performance, security)
+- URPs ([[Usability]], reliability, performance, security)
 - Additional features that are ***important*** for other aspects besides function
 - Example:
 	- Locks on car door

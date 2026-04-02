@@ -4,35 +4,69 @@
     "type": "split",
     "children": [
       {
-        "id": "f189827aa3cc4e9a",
+        "id": "f2e7ca85f939cec8",
         "type": "tabs",
         "children": [
           {
-            "id": "ca12107c32219db6",
+            "id": "f8bb5d472e0f7b09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCI316/Big Data Mining Techniques and Implementation.md",
+                "file": "AWS cloud pract basic/AWS services.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Big Data Mining Techniques and Implementation"
+              "title": "AWS services"
             }
           },
           {
-            "id": "d24db508aa079a11",
+            "id": "0e3f24f719ce59ad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "CSCI316/Skills/Code.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.12.7"
               },
-              "icon": "lucide-file",
-              "title": "Code"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
+          },
+          {
+            "id": "f5db98e2d2b49043",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/diagram aws services.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "diagram aws services"
+            }
+          },
+          {
+            "id": "6f03f8ac4238bc8e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "CSCI218/Tutorial slides/Lab 4_CEL.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Lab 4_CEL"
+            }
+          },
+          {
+            "id": "c50f8f820f6d4fc1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "CSCI323/tutorial/Lab 6 student.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Lab 6 student"
             }
           }
         ]
@@ -67,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "line:dimen",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ISIT 312/L2.md",
+                "file": "CSCI218/Lecture 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +152,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for L2"
+              "title": "Backlinks for Lecture 1"
             }
           },
           {
@@ -156,20 +190,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subnetting.md",
+                "file": "CSCI218/Lecture 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Subnetting"
+              "title": "Outline of Lecture 1"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 548.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -186,39 +221,37 @@
     }
   },
   "floating": {
-    "id": "64b3cf66bbcd941d",
+    "id": "d86aef5c58d5be2d",
     "type": "floating",
     "children": [
       {
-        "id": "b82bcd1daf55ba0d",
+        "id": "3b3825459ec40bc1",
         "type": "window",
         "children": [
           {
-            "id": "ecffb286d3db7c34",
+            "id": "dc4e831c9ab692c9",
             "type": "tabs",
             "children": [
               {
-                "id": "0509b6fa67fb0708",
+                "id": "994b6e4e0911c79b",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "CSCI316/4 End-to-End Big Data Lifecycle.pdf"
+                    "file": "AWS cloud pract basic/==Lecture notes/AcademyCloudFoundations_Module_02.pdf"
                   },
                   "icon": "lucide-file-text",
-                  "title": "4 End-to-End Big Data Lifecycle"
+                  "title": "AcademyCloudFoundations_Module_02"
                 }
               },
               {
-                "id": "729ec3a7c586b9cc",
+                "id": "6de5a4d2ba74a24a",
                 "type": "leaf",
                 "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "CSCI316/5 Classification by Splitting Data.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "5 Classification by Splitting Data"
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
                 }
               }
             ],
@@ -226,61 +259,62 @@
           }
         ],
         "direction": "vertical",
-        "x": 549,
-        "y": 1044,
-        "width": 1648,
-        "height": 992,
-        "maximize": true,
+        "x": 0,
+        "y": 0,
+        "width": 960,
+        "height": 1032,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "ca12107c32219db6",
+  "active": "90132b418fbfe4f4",
   "lastOpenFiles": [
-    "CSCI316/Skills/Code.md",
-    "CSCI316/5 Classification by Splitting Data.pdf",
-    "CSCI316/Big Data Mining Techniques and Implementation.md",
-    "CSCI316/Skills/FORMULAS.md",
-    "attachements/Pasted image 20260123182545.png",
-    "attachements/Pasted image 20260123181436.png",
-    "CSCI316/Skills/Big data project life cycle.md",
+    "CSIT314/Lecture=/Topic 12.pdf",
+    "CSIT314/Lecture=/Unconfirmed 291985.crdownload",
+    "CSIT314/Lecture=/Topic 11.pdf",
+    "CSIT314/Lecture=/Unconfirmed 634107.crdownload",
+    "CSIT314/Lecture=/Topic 10.pdf",
+    "CSIT314/Lecture=/Unconfirmed 975584.crdownload",
+    "CSIT314/Lecture=/Topic 9.pdf",
+    "CSIT314/Lecture=/Unconfirmed 985245.crdownload",
+    "CSIT314/Lecture=/Topic 8.pdf",
+    "CSIT314/Lecture=/Unconfirmed 925892.crdownload",
+    "CSIT314/Lecture=/Topic 7.pdf",
+    "AWS cloud pract basic/AWS services.md",
+    "attachements/Pasted image 20260329223034.png",
+    "Excalidraw/diagram aws services.md",
+    "attachements/Pasted image 20260326215858.png",
+    "CSCI218/Ai foundations.md",
+    "CSCI218/Tutorial slides/lab_3.md",
+    "CSCI218/Tutorial slides/T5.md",
+    "CSCI218/CSCI218_Spring2022_Answers.md",
+    "attachements/Pasted image 20260304182952.png",
+    "attachements/Pasted image 20260304173250.png",
+    "attachements/Pasted image 20260304145231.png",
+    "attachements/Pasted image 20260304004246.png",
+    "attachements/Pasted image 20260304004234.png",
+    "attachements/Pasted image 20260304003949.png",
     "Decision tree.md",
-    "CSCI316/4 End-to-End Big Data Lifecycle.pdf",
-    "attachements/Pasted image 20260123173434.png",
-    "CSCI316/out of hand remarks.md",
-    "CSCI218/Tutorial 1.md",
-    "CSCI316/3 Data Pre-processing.pdf",
-    "CSCI218/T5.md",
-    "CSCI218/Lecture slides/T6-LogicKnowledge.pdf",
-    "CSCI218/Lecture slides/T5-SolvingProblemBySearch.pdf",
-    "CSCI218/Lecture slides/T7-ProbabilisticReasoning.pdf",
-    "CSCI218/Lecture slides/T4-NaturalLanguage_Processing-II.pdf",
-    "CSCI218/Lecture slides/T4-NaturalLanguage_Processing-I.pdf",
-    "CSCI218/Lecture slides/T3-ComputerVision.m3DlvSRF.pdf.part",
-    "CSCI218/Lecture slides/T3-ComputerVision.pdf",
-    "attachements/Pasted image 20260116235826.png",
-    "attachements/Pasted image 20260116150722.png",
-    "attachements/Pasted image 20260116150651.png",
-    "CSCI316/Goals.md",
-    "CSCI316/Job prospects.md",
-    "attachements/Pasted image 20260115224935.png",
+    "CSCI218/Activation functions.md",
+    "attachements/Pasted image 20260303203026.png",
+    "attachements/Pasted image 20260303184517.png",
+    "CSCI316/answer key.md",
+    "CSCI316/Big Data Mining Techniques and Implementation.md",
+    "Excalidraw/TF label diagram.md",
+    "ISIT 312/Cheatsheet.md",
+    "Excalidraw/YARN.md",
+    "ISIT 312/hadoop infrastructure.md",
+    "Excalidraw/Mapreduce.excalidraw.md",
+    "Excalidraw/splitdecision diagram.md",
+    "Excalidraw/bayes theorem diagram.md",
+    "CSCI316/Skills/Definitions.md",
+    "CSCI316/Skills/FORMULAS.md",
+    "CSCI316/Skills/Big data project life cycle.md",
+    "CSCI316/Skills/Code.md",
     "CSCI316/Skills/PLOTS.md",
-    "attachements/Pasted image 20260115223256.png",
-    "attachements/Pasted image 20260115223226.png",
-    "Excalidraw/2NF.md",
-    "Excalidraw/functional dependancy mind map.md",
-    "Excalidraw/box and whisker.md",
-    "CSCI323/Image Classification.md",
-    "CSCI323/Neural network.md",
-    "CSCI323/cheatsheet.md",
-    "attachements/Pasted image 20260111013737.png",
-    "Excalidraw/1NF.md",
-    "CSIT 235/BCNF.md",
-    "CSCI316/Responsibilty/Data Collection.md",
-    "AWS cloud pract basic/IAM policy.md",
-    "AWS cloud pract basic/Lightsail.md",
-    "AWS cloud pract basic/gaps.md",
-    "AWS cloud pract basic/AWS.md",
-    "thm/UDF exploit.md"
+    "CSCI316/Skills/ml models.md",
+    "Excalidraw/momentum gd diagram.md",
+    "Excalidraw/hills diagram.md"
   ]
 }

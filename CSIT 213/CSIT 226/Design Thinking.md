@@ -2,8 +2,8 @@ is a design methodology that
 provides a solution-based approach to solving
 problems. It’s extremely useful in tackling complex
 problems that are ill-defined or unknown, by
-understanding the [[human]] needs involved, by re-
-framing the problem in [[human]]-centric ways, by
+understanding the [[Human]] needs involved, by re-
+framing the problem in [[Human]]-centric ways, by
 creating many ideas in brainstorming sessions, and by
 adopting a hands-on approach in prototyping and
 testing.
