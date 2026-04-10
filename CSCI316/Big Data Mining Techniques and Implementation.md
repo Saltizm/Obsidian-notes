@@ -36,7 +36,7 @@ Refer to number of unique records.
 High sparcity = High variance 
 
 Sparcity -> High dimensionality
-
+Dimension - how large a row is 
 ### Pre processing
 Things done before data processing (prep input)
 Mining methods influenced by nature of data.
@@ -224,11 +224,205 @@ use test sample to go down the decision tree to check if the class value derived
 #### Building a decision tree
 Hunt's algorithm
 - Let D^[t] be the data that is received by node _t_
-- If D^[t] is entirely contain one class value. create a Y^[t]
-- if D^[t] empty. D^[t] -> Y^[t] 
+- termination conditions:
+	- If D^[t] is entirely contain one class value. create a Y^[t]
+	- if D^[t] have no attributes left. create Y^[t].
+	- if D^[t] empty. D^[t-1] -> Y^[t] 
 - if theres is no more t. Take majority vote -> D^[t] -> Y^[t]
 - otherwise:
 	- split by y 
+<<<<<<< HEAD
 	- recursive call < Y^[t] + D^[t+1] 
 	- 
 Hunt's algorithm will only split according to another attribute when the original doesn't split it distinctively.
+=======
+	- recursive call  "Y^[t] + D^[t+1] " split by "splitDataSet"
+Splitting methods
+- Multisplit - high dimensionality
+- binary split - linear categorization, might not capture relationship
+##### handling continuous value
+Continuous attribute discretisation
+- Static - binning with set 
+- Dynamic - binning within pipeline, according to metrics such as
+	- IQR
+	- Clustering (k means)
+Ranges (binary decisions)
+- find the best split (backtrack)
+- computationally expensive
+#### Tree induction
+**Greedy approach**
+$$impurity \propto homogeneous^{-1}$$
+impurity - how uncertain (evenly split) the labels are in a node
+homogenous - majority class is large (x1 : 10, x2 : 0)
+
+Entropy - measure of information uncertainty (range(0,1))
+$$Shannon\ entropy\ model\ -\ H(X)=\sum_{x\in X}p(x)\ log_2(p(x)^-1) = E(surprise)$$
+$$conditional\ entropy\ -\ {H(X|Y) = H(X,Y) - H(Y)}$$
+**Multiway split (nonbinary)**
+![[Pasted image 20260227232736.png]]
+Hp(D) - the summation entropy of splitting 
+InfoGain(P) - difference between initial H(D), Hp(D)
+
+#### Pruning (overfitting countermeasure)
+Pre-pruning - stop tree construction up to a certain threshold
+- Information gain
+- Split dataset size
+Post-pruning - prune branches after seeing overfitting
+- CART (cost complexity pruning)
+	- identify the weakest link to prune 
+		- Metrics:
+			- Error rate
+			- Depth from node
+### Random forest (DT ensemble)
+Ensemble - Using many models to create a new model
+
+| Advantage                                                                                 | Disadvantage       |
+| ----------------------------------------------------------------------------------------- | ------------------ |
+| Increased accuracy - Crowd intelligence (one mistake is nullified if majority is correct) | Computational cost |
+| handles high data volumes (multiple trees)                                                |                    |
+| Parallelization                                                                           |                    |
+##### Sampling
+**sample sampling**
+- Bagging - select and replace samples to create a subset randomly
+**feature sampling**
+- Forest-RI(random input) - randomly select features 
+	- Feature reduction
+- Forest-RC - from existing features, create linear combinations (addition and subtraction only) randomly
+	- Feature instantiation 
+---
+### Probabilistic classification
+- Traditional classifier - Provide crispy prediction
+- Probabilistic classifier - Give a probability of a label 
+
+| advantage                   | disadvantage                                                 |
+| --------------------------- | ------------------------------------------------------------ |
+| Comparable accuracy with DT | computationally intractable (non polynomial scaling runtime) |
+|                             |                                                              |
+#### Probability 
+Random variables:
+- Discrete RV
+	- Boolean - Y/N
+	- Discrete - Sunny/Rain
+- Continuous RV
+	- Discretization - binning into ranges
+	- **Probability density function - Gaussian distribution** 
+		- 
+### Naive Bayes Classifer
+Bayes theorem 
+![[bayes theorem diagram]]
+conditional independence assumption
+![[Definitions#^ae4177]]
+##### Issues
+**Numerical underflow**
+- With many attribute (many multiplication of <1 values) 
+- Solution:
+	- Use log transform
+**Zero count**
+- Some attribute have a value count of 0 when some label is given
+- bayes calculation will have a 0 in the product (p(Y|**X**)=0)
+- i.e. label (buy_computer=true) has attribute (name=tom smith) in test set
+	- **Laplace smoothing**:
+		- Add one(or a small value) to the denominator and numerator 
+##### Continuous-value Features
+$$- Mean\ \mu = \frac{1}{N} \sum_{i=1}^N x_i$$
+
+$$- Variance\ \sigma^2 = \frac{1}{N} \sum_{i=1}^N (x_i - \mu)^2 = \left( \frac{1}{N} \sum_{i=1}^N x_i^2 \right) - \mu^2$$
+- ![[Pasted image 20260301181019.png]]
+- Bayes theorem for continuous features (given)
+- used in ranges as P(X=x|Y) is near 0. use a small range from r\<x\<r+e. where e is a small value
+
+| Advantages                                   | Disadvantages                                                            |
+| -------------------------------------------- | ------------------------------------------------------------------------ |
+| • Easy to implement                          | • Assumption: class conditional independence, therefore loss of accuracy |
+| • Good results obtained in most of the cases | • Practically, dependencies exist among variables                        |
+|                                              | • E.g., Symptoms: fever, cough etc., Disease: lung cancer, diabetes etc. |
+|                                              | • Dependencies among these cannot be modeled by Naïve Bayes Classifier   |
+
+• **How to deal with these dependencies?**
+• Bayesian Belief Network (DAG learnt from previous mod)
+• From correlation to causality?
+
+---
+### Model evaluation
+![[TF label diagram|10000]]
+#### accuracy
+Classifier accuracy(recognition rate) - TP+TN/(TP + FP + FN + TN) - T/(T+F)
+Error rate - FP+FN/(TP + FP + FN + TN) - F/(T+F) - 1-Acc
+#### class imbalance
+Recognition rate:
+- Sensitivity/recall(TP rec) - TP/(TP + FN) 
+	- If classifier keep choosing P, sensitivity low
+	- Class imbalance (high positive label)
+- Specificity(TN rec) - TN/(TN + FP)
+	- If classifier keep choosing N, specificity low
+	- Class imbalance (high negative label)
+- FP rec - 1-specificity 
+	- Used in ROC (yaxis - FP rec/ xaxis - recall)
+F measure:
+- ![[Pasted image 20260301190301.png]]
+- Precision - TP / TP + FP
+- TPR (recall) - TP/ TP + FN
+- Fb ( weight F measure )
+	- ![[Pasted image 20260301191410.png]]
+	- b = 2/0.5
+Holdout method
+- Data split into test and training
+- hold out test. Use it to test
+![[Ai foundations#Resampling methods]]
+
+#### Metric 
+- Accuracy : classifier accuracy 
+- Speed - training time/test time
+- Robustness - noise handling (preprocessing)
+- Scalability - rdd?
+- Interpretability - derive semantic meaning 
+
+---
+### Big data
+MapReduce 
+fragmentation of data to split work load over several spark workers.
+Map - to project one data onto a different form
+Reduce - aggregation function. Used to add from different workers
+
+Relation - table
+Column header - attributes
+Rows - tuples (samples)
+
+R\[A1, ... , An\] 
+A - schema (Column)
+R - table
+
+#### Selection
+Map - Selection: For each tuple t in R, test if it satisfies C. If so, Mapper produce key value pair (t,t). otherwise, produce nothing
+
+Reduce - identity function (do nothing)
+
+#### Natural join
+Map - for each tuple (a, b) in R\[A, B\], 
+produce the key value pair b: (R,a).
+
+For each tuple (b, c) in R\[B, C\]. 
+produce the key value pair b(S, c).
+
+Reduce - Each key value pair, b will be **associated** with values in the form of (R,a) or (S,c). Construct all tuple (a,b,c), if both (R,c) and (S,c) appear in the list that b is **associated** with.
+
+#### Matrix-Matrix multiplication
+$$N = n_{jk},\quad M = M_{ji},\quad P = NM = \sum_{j} n_{jk} m_{ji} = p_{ki}$$
+##### Stage 1
+Map - For each matrix element mij, produce the key value pair j:(M, i, mij). 
+Likewise, for each matrix element njk, produce the key value pari j:(N, k, njk).
+
+Reduce - For each key j, examine it's list of associated values.
+For each value that comes from M, 
+and each value that comes from N,
+produce a key value pair with key (i,k) and value equal to the product mijnjk.
+
+##### Stage 2
+Map - identity function 
+
+Reduce - For each key (i, k),
+produce the sum of the list of values associated with this key.
+The result is a key value pair (i,k) : v, where v is the value of the element in row i and column k of the matrix P = MN.
+
+Apache spark stores data in rdd distributed across multiple machines.
+>>>>>>> c7bca11028817caa74e8594039e83d7a5cad0067
