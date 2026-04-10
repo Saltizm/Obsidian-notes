@@ -4,72 +4,79 @@
     "type": "split",
     "children": [
       {
-        "id": "f2e7ca85f939cec8",
+        "id": "f189827aa3cc4e9a",
         "type": "tabs",
         "children": [
           {
-            "id": "f8bb5d472e0f7b09",
+            "id": "ca12107c32219db6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS cloud pract basic/AWS services.md",
+                "file": "CSCI316/Big Data Mining Techniques and Implementation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AWS services"
+              "title": "Big Data Mining Techniques and Implementation"
             }
           },
           {
-            "id": "0e3f24f719ce59ad",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
-            }
-          },
-          {
-            "id": "f5db98e2d2b49043",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/diagram aws services.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "diagram aws services"
-            }
-          },
-          {
-            "id": "6f03f8ac4238bc8e",
+            "id": "8baf84717b94da4e",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "CSCI218/Tutorial slides/Lab 4_CEL.pdf"
+                "file": "CSCI316/4 End-to-End Big Data Lifecycle.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Lab 4_CEL"
+              "title": "4 End-to-End Big Data Lifecycle"
             }
           },
           {
-            "id": "c50f8f820f6d4fc1",
+            "id": "d24db508aa079a11",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "CSCI323/tutorial/Lab 6 student.pdf"
+                "file": "CSCI316/Skills/Code.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Lab 6 student"
+              "icon": "lucide-file",
+              "title": "Code"
+            }
+          },
+          {
+            "id": "06fb3fa055f45a49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software dev T1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Software dev T1"
+            }
+          },
+          {
+            "id": "45e8c442d67a1853",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSCI262/Exam speculation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Exam speculation"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -101,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:dimen",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCI218/Lecture 1.md",
+                "file": "ISIT 312/L2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +159,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lecture 1"
+              "title": "Backlinks for L2"
             }
           },
           {
@@ -190,21 +197,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCI218/Lecture 1.md",
+                "file": "Subnetting.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lecture 1"
+              "title": "Outline of Subnetting"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 548.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -220,101 +226,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "d86aef5c58d5be2d",
-    "type": "floating",
-    "children": [
-      {
-        "id": "3b3825459ec40bc1",
-        "type": "window",
-        "children": [
-          {
-            "id": "dc4e831c9ab692c9",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "994b6e4e0911c79b",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "AWS cloud pract basic/==Lecture notes/AcademyCloudFoundations_Module_02.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "AcademyCloudFoundations_Module_02"
-                }
-              },
-              {
-                "id": "6de5a4d2ba74a24a",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "New tab"
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 960,
-        "height": 1032,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "90132b418fbfe4f4",
+  "active": "45e8c442d67a1853",
   "lastOpenFiles": [
-    "CSIT314/Lecture=/Topic 12.pdf",
-    "CSIT314/Lecture=/Unconfirmed 291985.crdownload",
-    "CSIT314/Lecture=/Topic 11.pdf",
-    "CSIT314/Lecture=/Unconfirmed 634107.crdownload",
-    "CSIT314/Lecture=/Topic 10.pdf",
-    "CSIT314/Lecture=/Unconfirmed 975584.crdownload",
-    "CSIT314/Lecture=/Topic 9.pdf",
-    "CSIT314/Lecture=/Unconfirmed 985245.crdownload",
-    "CSIT314/Lecture=/Topic 8.pdf",
-    "CSIT314/Lecture=/Unconfirmed 925892.crdownload",
-    "CSIT314/Lecture=/Topic 7.pdf",
-    "AWS cloud pract basic/AWS services.md",
+    "CSCI316/Big Data Mining Techniques and Implementation.md.orig",
+    "CSCI316/Big Data Mining Techniques and Implementation_REMOTE_9237.md",
+    "CSCI316/Big Data Mining Techniques and Implementation_LOCAL_9237.md",
+    "CSCI316/Big Data Mining Techniques and Implementation_BASE_9237.md",
+    "CSCI316/Big Data Mining Techniques and Implementation_BACKUP_9237.md",
     "attachements/Pasted image 20260329223034.png",
-    "Excalidraw/diagram aws services.md",
     "attachements/Pasted image 20260326215858.png",
-    "CSCI218/Ai foundations.md",
-    "CSCI218/Tutorial slides/lab_3.md",
-    "CSCI218/Tutorial slides/T5.md",
-    "CSCI218/CSCI218_Spring2022_Answers.md",
     "attachements/Pasted image 20260304182952.png",
     "attachements/Pasted image 20260304173250.png",
     "attachements/Pasted image 20260304145231.png",
     "attachements/Pasted image 20260304004246.png",
     "attachements/Pasted image 20260304004234.png",
     "attachements/Pasted image 20260304003949.png",
-    "Decision tree.md",
-    "CSCI218/Activation functions.md",
     "attachements/Pasted image 20260303203026.png",
     "attachements/Pasted image 20260303184517.png",
-    "CSCI316/answer key.md",
-    "CSCI316/Big Data Mining Techniques and Implementation.md",
-    "Excalidraw/TF label diagram.md",
-    "ISIT 312/Cheatsheet.md",
-    "Excalidraw/YARN.md",
-    "ISIT 312/hadoop infrastructure.md",
-    "Excalidraw/Mapreduce.excalidraw.md",
+    "Excalidraw/stochastic gd diagram.md",
     "Excalidraw/splitdecision diagram.md",
-    "Excalidraw/bayes theorem diagram.md",
-    "CSCI316/Skills/Definitions.md",
-    "CSCI316/Skills/FORMULAS.md",
-    "CSCI316/Skills/Big data project life cycle.md",
-    "CSCI316/Skills/Code.md",
-    "CSCI316/Skills/PLOTS.md",
-    "CSCI316/Skills/ml models.md",
     "Excalidraw/momentum gd diagram.md",
-    "Excalidraw/hills diagram.md"
+    "Excalidraw/hills diagram.md",
+    "Excalidraw/hills diagram gradient.md",
+    "Excalidraw/diagram aws services.md",
+    "Excalidraw/cross validation diagram.md",
+    "Excalidraw/bayes theorem diagram.md",
+    "Excalidraw/TF label diagram.md",
+    "CSIT314/Lecture=/Topic 9.pdf",
+    "CSIT314/Lecture=/Topic 8.pdf",
+    "CSIT314/Lecture=/Topic 7.pdf",
+    "CSIT314/Lecture=/Topic 6.pdf",
+    "CSIT314/Lecture=/Topic 5.pdf",
+    "CSIT314/Lecture=/Topic 4.pdf",
+    "CSIT314/Lecture=/Topic 3.pdf",
+    "CSIT314/Lecture=/Topic 2.pdf",
+    "CSIT314/Lecture=/Topic 12.pdf",
+    "CSIT314/Lecture=/Topic 11.pdf",
+    "CSIT 213/CSIT 226/Training-wheel methods/scaffolding.md",
+    "CSIT 213/CSIT 226/Execution/Evaluation Action cycle.md",
+    "CSIT 213/CSIT 226/Information input/output.md",
+    "CSIT 213/CSIT 226/variance effect.md",
+    "CSIT 213/CSIT 226/mental model.md",
+    "CSIT 213/CSIT 226/hierarchical.md",
+    "CSIT 213/CSIT 226/external interface.md",
+    "CSIT 213/CSIT 226/computers.md",
+    "CSIT 213/CSIT 226/Wizard.md",
+    "CSIT 213/CSIT 226/User interface.md",
+    "CSIT 213/CSIT 226/User experience.md",
+    "CSIT 213/CSIT 226/Usability.md"
   ]
 }
