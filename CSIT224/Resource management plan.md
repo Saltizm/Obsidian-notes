@@ -1,7 +1,7 @@
 ![[Pasted image 20240604210237.png]]
 
 ![[Pasted image 20240604210648.png]]
-[[Scope]] 
+[[CSIT224/Scope]] 
 [[Baseline]]
 
 [[WBS (work breakdown structure)]]

@@ -229,4 +229,6 @@ Hunt's algorithm
 - if theres is no more t. Take majority vote -> D^[t] -> Y^[t]
 - otherwise:
 	- split by y 
-	- recursive call < Y^[t] + D^[t+1] >
+	- recursive call < Y^[t] + D^[t+1] 
+	- 
+Hunt's algorithm will only split according to another attribute when the original doesn't split it distinctively.

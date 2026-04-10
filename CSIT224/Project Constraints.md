@@ -2,7 +2,7 @@ Project constraints are limitations faced when [[Project management]] .
 ![[Pasted image 20240520211544.png]]
 
 The diagram shows the scarcity between the 3 Constraints:
-[[Scope]],
+[[CSIT224/Scope]],
 COST (Funding) and, 
 TIME 
 
