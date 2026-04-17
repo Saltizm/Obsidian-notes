@@ -76,3 +76,7 @@ Pooling
 - down sampling - 
 ![[Pasted image 20251118033127.png]]
 
+Dropout - prevent overfitting, temporary turn off neurons for learning
+Batchnorm - normalisation to std = 0 mean = 1 
+softmax (MLP) - activation for getting probability 
+reLU(conv) - activation for range(0,1)

@@ -231,6 +231,11 @@ Hunt's algorithm
 - if theres is no more t. Take majority vote -> D^[t] -> Y^[t]
 - otherwise:
 	- split by y 
+<<<<<<< HEAD
+	- recursive call < Y^[t] + D^[t+1] 
+	- 
+Hunt's algorithm will only split according to another attribute when the original doesn't split it distinctively.
+=======
 	- recursive call  "Y^[t] + D^[t+1] " split by "splitDataSet"
 Splitting methods
 - Multisplit - high dimensionality
@@ -420,3 +425,4 @@ produce the sum of the list of values associated with this key.
 The result is a key value pair (i,k) : v, where v is the value of the element in row i and column k of the matrix P = MN.
 
 Apache spark stores data in rdd distributed across multiple machines.
+>>>>>>> c7bca11028817caa74e8594039e83d7a5cad0067
