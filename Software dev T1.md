@@ -1,4 +1,4 @@
-CRUDS
+RUDS
 
 User story - needs defined by actors (users)
 ### User Admin (User)
