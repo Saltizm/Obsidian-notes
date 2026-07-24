@@ -3,7 +3,7 @@
 ##### Information obtainable
 - Source and destination [[IP]]
 - [[Port]]
-- [[DNS]]
+- [[CSIT302/DNS]]
 - [[Network (ISO model)|Packet size and timing]]
 
 ### Attacks enabled

@@ -24,4 +24,4 @@
 #### MISC servers
 - mail server
 - proxy server
-- communication server ([[DNS]] server)
+- communication server ([[CSIT302/DNS]] server)

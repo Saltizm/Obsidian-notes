@@ -1,6 +1,27 @@
 - Domain name service 
 - Hierarchical naming system for domains
-
+### THM
+- TLD - top level domain
+	- gTLD (generic)
+		- .edu, .app, .web
+	- ccTLD(country code)
+		- .sg, .au, zn
+- SLD - second level domain
+	- Limits:
+		- 63 char long
+		- lower char
+		- 0-9
+- subdomain
+	- domain dir
+	- Limits:
+		- 63 char long
+		- lower char
+		- 0-9
+	- can be stacked up to 253 characters
+- Recursive DNS
+	- asks other server for address (usually in cache)
+- Authoritative DNS
+	- has a phonebook of dns records
 ### Example 
 Company.com (Root)
 - Dubai.Company.com(Child)

@@ -2,5 +2,5 @@
 - Act of gathering information from public resources:
 	- Phone books
 	- Social media
-	- [[DNS]] records
+	- [[CSIT302/DNS]] records
 

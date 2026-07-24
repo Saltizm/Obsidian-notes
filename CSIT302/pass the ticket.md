@@ -5,5 +5,5 @@
 - requires:
 - the KRBTGT/target service account hash (through [[pass the hash]])
 - the KRBTGT/target [[NTLM]] hashes or [[AES]] keys
-- the KRBTGT/target [[SID|domain SID]] and [[DNS|domain name]]
+- the KRBTGT/target [[SID|domain SID]] and [[CSIT302/DNS|domain name]]
 

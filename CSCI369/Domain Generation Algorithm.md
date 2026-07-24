@@ -1,2 +1,2 @@
-- Program that generate many new domain names ([[DNS]])
+- Program that generate many new domain names ([[CSIT302/DNS]])
 - Constant change domain name to evade identification  

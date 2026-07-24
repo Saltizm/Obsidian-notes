@@ -5,7 +5,7 @@
 ### Anatomy
 ![[Active directory anatomy drawing|1000]]
 #### Domain Name system
-![[DNS]]
+![[CSIT302/DNS]]
 #### Objects
 ![[Object(Active directory)]]
 #### Organisation Units

@@ -1,6 +1,6 @@
 ### .
 - Changing DNS records to redirect network traffic
-- Make use of firewall leaving port 53 open for [[DNS]] queries to bypass firewall
+- Make use of firewall leaving port 53 open for [[CSIT302/DNS]] queries to bypass firewall
 - a [[Dropper]] method
 ### Process
 #### Method 1
