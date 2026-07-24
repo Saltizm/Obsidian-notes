@@ -8,6 +8,8 @@ This can be broken down into various causes such as:
 Operational changes( Culture risk )
 
 Risk threat level can be determined through [[Quantitative risk analysis]]
+### Risk categories
+![[Risk quadrants drawing]]
 
 <h3> Risk management</h3>
 
