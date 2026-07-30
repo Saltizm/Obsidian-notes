@@ -68,7 +68,7 @@ Lambda - serverless compute (saas)
 - 
 #### Security pillar
 - PMCM (prevention/corrective)
-- [[CIA]]
+- [[CIA triad]]
 #### Reliability pillar
 - UAT 
 - PAT

@@ -1,0 +1,1 @@
+Low intensity brightness. Use when ***Stationary***.
