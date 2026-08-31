@@ -20,8 +20,201 @@
               "icon": "lucide-file",
               "title": "Session 5"
             }
+          },
+          {
+            "id": "e0504759edf8f840",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 6"
+            }
+          },
+          {
+            "id": "55f987fb72b72620",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Assignment1 ARPtest and ARPspoof.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Assignment1 ARPtest and ARPspoof"
+            }
+          },
+          {
+            "id": "d08c5fc4cce7e4d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meeting minute 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Meeting minute 4"
+            }
+          },
+          {
+            "id": "cf980b2ae138e193",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Assignment1 ARPscanner.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Assignment1 ARPscanner"
+            }
+          },
+          {
+            "id": "e93475fa7119a310",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Assignment1 ARPtest and ARPspoof.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Assignment1 ARPtest and ARPspoof"
+            }
+          },
+          {
+            "id": "52627e98b60c7cf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Assignment1 ARPtest and ARPspoof.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Assignment1 ARPtest and ARPspoof"
+            }
+          },
+          {
+            "id": "5d80fc0cdc4ef123",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.6"
+            }
+          },
+          {
+            "id": "9607c33e7070667b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "THM overheard at breakfast.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "THM overheard at breakfast"
+            }
+          },
+          {
+            "id": "7c1679e8aeec304d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.7"
+            }
+          },
+          {
+            "id": "905ab2cc3614a28f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Assignment1 Reverse shell.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Assignment1 Reverse shell"
+            }
+          },
+          {
+            "id": "a6d13a2a686b7a61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Assignment1 Ransomware.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Assignment1 Ransomware"
+            }
+          },
+          {
+            "id": "cd58862024506e7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "THM overheard at breakfast.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "THM overheard at breakfast"
+            }
+          },
+          {
+            "id": "3b84965d0c49e68c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ethical hacking revision outline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ethical hacking revision outline"
+            }
+          },
+          {
+            "id": "a2bfb62bfaeb0ab2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ethical hacking revision outline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ethical hacking revision outline"
+            }
           }
-        ]
+        ],
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -41,7 +234,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -171,52 +366,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d24db508aa079a11",
+  "active": "a2bfb62bfaeb0ab2",
   "lastOpenFiles": [
+    "exam spec.md",
+    "ethical hacking revision outline.md",
+    "thm/Blind SQLi.md",
+    "thm/Offsec/Session 4.md",
+    "Risk mitigation plan.md",
+    "CSCI369/pivoting.md",
+    "thm/Decryption.md",
+    "lab 8.md",
+    "THM overheard at breakfast.md",
+    "thm/Offsec/Session 6.md",
+    "thm/Offsec/Session 5.md",
+    "attachements/Pasted image 20260814035248.png",
+    "attachements/Pasted image 20260814020708.png",
+    "thm/Offsec/Session 3.md",
+    "Assignment 1 hash cracking.md",
+    "Assignment1 Ransomware.md",
+    "Assignment1 Reverse shell.md",
+    "Assignment1 ARPscanner.md",
+    "Assignment1 ARPtest and ARPspoof.md",
+    "attachements/Pasted image 20260813053432.png",
+    "attachements/Pasted image 20260813053202.png",
+    "attachements/Pasted image 20260813053102.png",
+    "attachements/Pasted image 20260813053009.png",
+    "attachements/Pasted image 20260813053007.png",
+    "attachements/Pasted image 20260813052556.png",
+    "attachements/Pasted image 20260813051114.png",
+    "attachements/Pasted image 20260813045400.png",
+    "Untitled.md",
+    "Meeting minute 4.md",
+    "Tutorial  2.md",
+    "Untitled.base",
+    "Session 6.md",
+    "ISIT 312/==Lectures/01clustercomputing.pdf",
+    "CSIT314/Lecture=/Topic 1.pdf",
+    "CSIT302/Nmap.md",
+    "CSCI323/lecturer/lecture2-Modern Neural Networks.pdf",
+    "CSCI369/List of one off mentions.md",
+    "thm/Blue.md",
     "thm/DNS.md",
     "CSIT302/DNS.md",
-    "thm/Offsec/Session 5.md",
-    "thm/Offsec/Session 4.md",
     "CSCI316/4 End-to-End Big Data Lifecycle.pdf",
-    "attachements/Pasted image 20260730151328.png",
-    "attachements/Pasted image 20260730104351.png",
-    "attachements/Pasted image 20260730103452.png",
-    "attachements/Pasted image 20260730101540.png",
-    "thm/Offsec/Session 3.md",
-    "thm/Offsec/Session2.md",
-    "thm/Decryption.md",
-    "CIA triad.md",
-    "AWS cloud pract basic/AWS.md",
-    "CSIT302/=STARTING POINT/Cybersecurity.md",
-    "Excalidraw/Risk quadrants drawing.md",
-    "attachements/Pasted Image 20260725003026_594.png",
-    "attachements/Pasted Image 20260725003026_588.png",
-    "attachements/Pasted Image 20260725003026_575.png",
-    "attachements/Pasted Image 20260725003026_563.png",
-    "attachements/Pasted Image 20260725003026_555.png",
-    "attachements/Pasted Image 20260725003026_543.png",
-    "CSIT 123/masternote 123.md",
-    "CSCI369/Threat actors.md",
-    "Tutorial  2.md",
     "CSIT375",
-    "CSIT114/Risk.md",
-    "CSIT224/Quantitative risk analysis.md",
     "thm/Offsec",
-    "thm/SQLi.md",
-    "thm/Blind SQLi.md",
-    "thm/SUID SGID exploits.md",
-    "thm/Unions-based SQLi.md",
-    "CSCI262/T1.md",
-    "CSCI316/Skills/Code.md",
-    "Software dev T1.md",
-    "CSCI262/Exam speculation.md",
     "CSCI316/Big Data Mining Techniques and Implementation.md.orig",
-    "CSCI316/Big Data Mining Techniques and Implementation_REMOTE_9237.md",
     "CSIT314/Lecture=/Topic 9.pdf",
-    "CSIT314/Lecture=/Topic 8.pdf",
-    "CSIT314/Lecture=/Topic 7.pdf",
-    "CSIT314/Lecture=/Topic 6.pdf",
-    "CSIT314/Lecture=/Topic 5.pdf",
-    "CSIT314/Lecture=/Topic 4.pdf"
+    "CSIT314/Lecture=/Topic 8.pdf"
   ]
 }

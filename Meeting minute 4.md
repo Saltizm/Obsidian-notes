@@ -1,0 +1,3 @@
+- Diagrams do not have to adhere completely with software and vice versa until final deliverables
+- Test cases minimum need one positive and one negative testing for each usecase
+- No need to adhere to sprint structure 

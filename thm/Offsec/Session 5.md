@@ -228,3 +228,71 @@ kali@kali:~$ host -t txt megacorpone.com
 megacorpone.com descriptive text "Try Harder"
 megacorpone.com descriptive text "google-site-verification=U7B_b0HNeBtY4qYGQZNsEYXfCJ32hMNV3GtC0wWq5pA"
 ```
+- Bash enum - for ip in ${cat file.txt}; do host $ip.megacorpone.com;done
+pkill -f "host.*megacorpone"
+
+when logging into ssh shells or remote machines do not enter password into terminal. if you do clear with "history -c"
+### SMB
+SMB - server message block
+- used for file transfer and manipulation over a network
+- works on layer 7 (application)
+Netbios - Network BIOS
+- establish sessions so at layer 5 (session)
+- **nbtscan**
+	- scans devices for netBIOS names in linux - descriptive 
+```
+kali@kali:~$ sudo nbtscan -r 192.168.50.0/24
+Doing NBT name scan for addresses from 192.168.50.0/24
+
+IP address       NetBIOS Name     Server    User             MAC address
+------------------------------------------------------------------------------
+192.168.50.124   SAMBA            <server>  SAMBA            00:00:00:00:00:00
+192.168.50.134   SAMBAWEB         <server>  SAMBAWEB         00:00:00:00:00:00
+```
+- net view
+	- same as nbtscan but is for windows
+	- command:
+		- ```net view \\dc01 /all```
+			- ```\\dc01``` - domain controller (AD domain service)
+nse - nmap scripting engine
+- scripts used for nmap
+### SMTP
+simple mail transport protocol
+commands:
+- VRFY 
+- EXPN
+- A VRFY
+port: 25
+
+tools:
+- Test-NetConnection
+	- get details about smtp for target
+### Demo
+- ![[Pasted image 20260814020708.png]]
+- VRFY accepts query and does not check if I have permission. This can be exploited by inferential enum
+- python sockets can be used to connect like nc :O
+### SNMP
+simple network management protocol
+ - SNMP MIB (management information base)
+	 - ![[Pasted image 20260814035248.png]]
+- UDP based (spoofable)
+port : 161
+
+tools
+- onesixtyone
+	- -c (community) : permission levels (elaborated in table below)
+	- -i ip address : list of ip
+- snmpwalk 
+	- sample : snmpwalk -c public -v1 (ip) (oid)
+	- -c (community)
+	- -vX (version)
+	- -t timeout duration
+
+|Community Name|Typical Permission Level|Description of Permissions|
+|---|---|---|
+|**public**|**Read-Only (RO)**|Allows SNMP managers to view information (GET requests), but not to make any changes. This is the most commonly used default community.|
+|**private**|**Read-Write (RW)**|Allows SNMP managers to both view and modify device configuration (both GET and SET requests). This is a common default for writable access.|
+|**trap**|**None / Trap Only**|Prevents remote GET and SET access. This community is primarily used by the SNMP agent to send notifications (Traps and Informs) to a management system.|
+
+### LLM
+- Use it to make custom wordlist

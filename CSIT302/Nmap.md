@@ -35,8 +35,22 @@
 | Insane     | Sweeping ping (0.3s response wait)  | 5   | Fast Local       |
 #### scan output
 - To Tli : default
+- To greppable format : -oG
 - To file : -oN file.txt
 - To XML : -oX file.xml
 
+#### Script
+- -sC - default scripts
+	- http-title : get webpage title
+	- ssl-cert, ssl-enum-ciphers : get ssl cert data
+		- valid dates 
+		- common names
+		- cipher type
+	- smb-os-discovery : get SMB
+		- OS ver
+		- Work group name
+	- ssh-hostkey : get public hostkey and _its' encryption method_
+	- ftp-anon : check for anonymous login for ftp servers
+	- dns-zone-transfer : dns config checks/**zone transfers**
 ### **Vuln**
 - find [[Security Vulnerability]] in target
