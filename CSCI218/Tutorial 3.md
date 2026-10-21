@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI218"
+chapter: "Artificial intelligence foundations"
+concept: "Tutorial 3"
+---
+
+# Tutorial 3
+
 ### CNN
 conv neural network(conv layers) + MLP
 [[Image Classification]]

@@ -1,3 +1,12 @@
+---
+index: true
+course: "Independent study"
+chapter: "Independent study"
+concept: "Session 6"
+---
+
+# Session 6
+
 ![[Nmap]]
 ### Windows 
 - TCP port discovery

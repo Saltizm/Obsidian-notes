@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT114"
+chapter: "Systems analysis"
+concept: "Executive support"
+---
+
+# Executive support
+
 Executive support is the support provided to Executive stakeholders ( ie senior managers, overseer comittee) to help make decision to move project forward.
 
 The support they receive include:

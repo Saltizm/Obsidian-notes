@@ -1,8 +1,17 @@
+---
+index: true
+course: "CSIT224"
+chapter: "Scope and requirements"
+concept: "Scope statement"
+---
+
+# Scope statement
+
 A project scope statement is **a clear definition of the boundaries of a [[Project management|project]]**.
 
 ![[Pasted image 20240603000740.png]]
 
-<h4> Procurement </h4>
+#### Procurement
 A Scope statement for [[Outsourcing (Procurement)]] is called a Statement Of Work ( SOW ).
 A SOW is used for:
 - Project Bidding

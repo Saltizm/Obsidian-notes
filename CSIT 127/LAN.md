@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT 127"
+chapter: "Network architecture"
+concept: "LAN"
+---
+
+# LAN
+
 - Local Area Networks( LAN ) are networks that [[Devices|individual computer]] systems are connected with. 
 - It spans from the size of a *household* to a *company*( 100 - 1000m )
 

@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Identity and access management"
+concept: "Domain Tree"
+---
+
+# Domain Tree
+
 - A group of [[Domain]] 
 - hierarchical arrangement of [[Domain]]
 - Determine Trust relationships between [[Domain]]

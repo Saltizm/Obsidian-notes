@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI203"
+chapter: "Data structures"
+concept: "BStar Tree"
+---
+
+# BStar Tree
+
 - [[Self balancing tree]] , [[M way tree]]
 - Star refers to an improved version from [[B tree]]
 - All values are stored at the Roots.

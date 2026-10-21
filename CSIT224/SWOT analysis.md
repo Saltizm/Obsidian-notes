@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT224"
+chapter: "Risk management"
+concept: "SWOT analysis"
+---
+
+# SWOT analysis
+
 POTENTIAL SWOT pointers:
 
 

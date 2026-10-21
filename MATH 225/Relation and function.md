@@ -1,3 +1,12 @@
+---
+index: true
+course: "MATH 225"
+chapter: "Relations"
+concept: "Relation and function"
+---
+
+# Relation and function
+
 ### Relation
 A relation is the order values are arranged and paired where said values are derived from 1 or 2 sets.
 ### ==========================================

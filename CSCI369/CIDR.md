@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI369"
+chapter: "Ethical hacking foundations"
+concept: "CIDR"
+---
+
+# CIDR
+
 ### .
 - Classless Inter-domain Domain Routing
 - Used for representing a [[Subnetting|Subnet mask]] 

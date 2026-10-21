@@ -1,7 +1,16 @@
+---
+index: true
+course: "CSIT224"
+chapter: "Risk management"
+concept: "Quantitative risk analysis"
+---
+
+# Quantitative risk analysis
+
 Quantitative risk analysis is used to analyse the Risk's **Probability** and **Impact**. 
 
-<h4> Technique </h4>
-<h5> Decision tree analysis </h5>
+#### Technique
+##### Decision tree analysis
 ![[Pasted image 20240601185438.png]]
 
 Used to calculate the economic impact of a [[Risk]].
@@ -15,12 +24,12 @@ Risk [[event]] - all possible outcome of an [[event]].
 >
 >Outcome 2: It fails ( cost incurred )
 >Net gain = -80 000
-<h5> Simulation </h5>
+##### Simulation
 ![[Pasted image 20240601190229.png]]
 
 KYS they better not test this 
 
-<h5> Sensitivity analysis </h5>
+##### Sensitivity analysis
 ![[Pasted image 20240601190326.png]]
 
 Used to test the effects of changing one or more variables on an outcome.

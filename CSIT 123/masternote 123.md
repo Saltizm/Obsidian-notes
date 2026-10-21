@@ -1,4 +1,13 @@
 ---
+index: true
+course: "CSIT 123"
+chapter: "Course notes"
+concept: "masternote 123"
+---
+
+# masternote 123
+
+---
 
 excalidraw-plugin: parsed
 tags: [excalidraw]
@@ -6,7 +15,7 @@ tags: [excalidraw]
 ---
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
-# Text Elements
+## Text Elements
 
 - common sense ( problem solving )
 - unlimited memory 
@@ -910,7 +919,7 @@ Memory hierarchy  ^w7be1XpY
 L1 cache <-> L2 cache <-> … <-> DRAM memory <-> disk ^kDO9vfxo
 
 %%
-# Drawing
+## Drawing
 ```json
 {
 	"type": "excalidraw",

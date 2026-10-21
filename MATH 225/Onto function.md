@@ -1,3 +1,12 @@
+---
+index: true
+course: "MATH 225"
+chapter: "Functions"
+concept: "Onto function"
+---
+
+# Onto function
+
 Onto functions are functions with ranges that is equivalent to the codomain.
 ![[Pasted image 20250209200231.png]]
 

@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT 127"
+chapter: "Signals and transmission media"
+concept: "Attenuation"
+---
+
+# Attenuation
+
 Attenuation is the loss of signal strength.  
 denoted in decibels (dB)
 Since it scales in decibels the loss of signal strength is exponential.

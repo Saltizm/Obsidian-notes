@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Identity and access management"
+concept: "Object(Active directory)"
+---
+
+# Object(Active directory)
+
 - Signifies a single device
 - Each [[Object Oriented Programming|Object]] has attributes
 

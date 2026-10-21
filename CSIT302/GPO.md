@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Identity and access management"
+concept: "GPO"
+---
+
+# GPO
+
 - Group policy object
 - A collection of settings that define what a system will look like and how it will behave for a defined group of users.
 - Distributed by:

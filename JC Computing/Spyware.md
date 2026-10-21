@@ -1,3 +1,12 @@
+---
+index: true
+course: "JC Computing"
+chapter: "Cybersecurity threats"
+concept: "Spyware"
+---
+
+# Spyware
+
 Spyware is a malicious software that gather infomation about the user. 
 
 Features:

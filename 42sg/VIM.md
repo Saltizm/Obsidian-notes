@@ -1,3 +1,12 @@
+---
+index: true
+course: "42sg"
+chapter: "Developer tools"
+concept: "VIM"
+---
+
+# VIM
+
 stdheader - create 42 header
 :sp / vsp - create split window
 :only - close other / :q - close current

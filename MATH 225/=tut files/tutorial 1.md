@@ -1,3 +1,12 @@
+---
+index: true
+course: "MATH 225"
+chapter: "Tutorials"
+concept: "tutorial 1"
+---
+
+# tutorial 1
+
 proof by induction:
 steps:
 - Create base claim (claim(1))
@@ -17,7 +26,7 @@ Basic operations:
 Associative law, commutative law 
 ![[Pasted image 20250106134635.png]]
 
-<h1>Proofs </h1>
+## Proofs
 ![[anatomy of a proof|1000]]
 
 ![[Set theory]]

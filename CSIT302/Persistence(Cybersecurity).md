@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Malware and post-exploitation"
+concept: "Persistence(Cybersecurity)"
+---
+
+# Persistence(Cybersecurity)
+
 - Mechanisms that allow [[Malware]] to persist *Reboots, logoffs and reinstallations* 
 ### Advanced Persistent Threat
 - threat that:

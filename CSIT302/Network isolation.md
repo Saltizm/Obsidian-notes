@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Network security"
+concept: "Network isolation"
+---
+
+# Network isolation
+
 - Practice of separating [[network]] clusters ^80765d
 
 ### Methods

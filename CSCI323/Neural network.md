@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI323"
+chapter: "Artificial intelligence"
+concept: "Neural network"
+---
+
+# Neural network
+
 ### Types of models
 #### Reflex base
 - $$x\rightarrow f_{predictor} \rightarrow y$$

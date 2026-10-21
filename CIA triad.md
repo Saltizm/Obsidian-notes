@@ -1,3 +1,12 @@
+---
+index: true
+course: "Independent study"
+chapter: "Independent study"
+concept: "CIA triad"
+---
+
+# CIA triad
+
 Confidentiality - is the data accessible only to those authorised 
 - network eavesdropping
 - credential stuffing

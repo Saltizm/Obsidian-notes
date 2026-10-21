@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI323"
+chapter: "Artificial intelligence"
+concept: "Notable examples"
+---
+
+# Notable examples
+
 - Dice game
 	- 10 dollar for not playing
 	-  4 dollar for rolling 2 dice

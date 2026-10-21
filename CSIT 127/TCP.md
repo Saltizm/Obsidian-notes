@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT 127"
+chapter: "Network protocols and layers"
+concept: "TCP"
+---
+
+# TCP
+
 Transmission control protocol( TCP ) is a [[network|connection based]] transfer protocol based in the [[Transport layer]]
 
 ![[TCP.PNG|500]]

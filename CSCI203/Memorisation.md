@@ -1,6 +1,15 @@
+---
+index: true
+course: "CSCI203"
+chapter: "Dynamic programming"
+concept: "Memorisation"
+---
+
+# Memorisation
+
 ```
-# Python program to find maximum
-# profit from rod of size n 
+## Python program to find maximum
+## profit from rod of size n
 
 def cutRodRecur(i, price, memo):
     

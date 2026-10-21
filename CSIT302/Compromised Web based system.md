@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Application security"
+concept: "Compromised Web based system"
+---
+
+# Compromised Web based system
+
 - [[Cloud computing|Web based systems]] are easier to compromise because it is public and accessible  
 ### Types
 #### LFI (local file inclusion)

@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI203"
+chapter: "Sorting algorithms"
+concept: "selection sort"
+---
+
+# selection sort
+
 instruction:
 1. Find the minimum/maximum value in the unsorted array
 2. swap with value in first index position 

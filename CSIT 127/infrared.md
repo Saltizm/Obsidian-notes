@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT 127"
+chapter: "Signals and transmission media"
+concept: "infrared"
+---
+
+# infrared
+
 infrared is a short ranged wireless transmission medium.
 
 transmit data using intense and weak pulse. ( [[Digital]] )

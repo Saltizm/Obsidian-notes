@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI323"
+chapter: "Artificial intelligence"
+concept: "cheatsheet"
+---
+
+# cheatsheet
+
 Based on the sources, particularly the subject plan summaries and details regarding the final examination, you should focus your memorization efforts on the **core conceptual underpinnings, key definitions, algorithms, and fundamental mathematical principles** across all seven tutorial/lecture topics.
 
 The final examination will test your **conceptual understanding** rather than purely rote memorization, and **no table with mathematical equations will be provided**. Therefore, you need to understand and internalize the logic and definitions behind the key formulas and algorithms.

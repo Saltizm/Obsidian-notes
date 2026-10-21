@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT114"
+chapter: "Systems analysis"
+concept: "CRUD"
+---
+
+# CRUD
+
 CRUD is an acronym for the four basic operations of persistent storage in computer programming.
 
 Crud stands for:
@@ -6,7 +15,7 @@ Crud stands for:
 - Update: Modifies existing records in the database
 - Delete: Removes records from the database 
 
-<h4>Overview</h4>
+#### Overview
 CRUD is used in database management as a checklist of proficiency in order to discover issues that might lead to data corruption.
 
 CRUD is used in [[Use case diagram]] to validate, refine or cross-check use cases
@@ -16,6 +25,6 @@ CRUD is used in [[Use case diagram]] to validate, refine or cross-check use case
 3. If a needed use case has been overlooked, add a new use case and then identify the stakeholders.
 4. With integrated applications, make sure it is clear which application is responsible for adding and maintaining the data and which system merely uses the data.
 
-<h5> domain class table</h5>
+##### domain class table
 ![[CRUD table.png]]
 (in the notes idk if they gonna test)

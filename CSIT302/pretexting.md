@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Social engineering"
+concept: "pretexting"
+---
+
+# pretexting
+
 - Attacker produce a pretext (made up scenario)
 - Used to convince victim to gain their trust/authority
 

@@ -1,9 +1,18 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Network security"
+concept: "MITM"
+---
+
+# MITM
+
 - Man in the middle attack
 - Intercepting packets in a network through [[IP spoofing]]
-### Examples
-- [[ARP poisoning]]
-- [[SSL strip]]
-- [[DNS poisoning]]
+> [!example]- Example
+> - [[ARP poisoning]]
+> - [[SSL strip]]
+> - [[DNS poisoning]]
 ### Uses 
 - Sniffing sensitive Information:
 	- For:

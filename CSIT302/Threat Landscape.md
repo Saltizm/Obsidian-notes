@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Detection and response"
+concept: "Threat Landscape"
+---
+
+# Threat Landscape
+
 The **threat landscape** is the ever-changing environment of **current cyber threats** out in the world
 ### Threat landscape analysis
 - Who can potentially attack 

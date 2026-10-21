@@ -1,3 +1,12 @@
+---
+index: true
+course: "Independent study"
+chapter: "Cybersecurity practice"
+concept: "ethical hacking revision outline"
+---
+
+# ethical hacking revision outline
+
 ### Type of hacker
 - White hat 
 - black hat

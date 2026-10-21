@@ -1,3 +1,12 @@
+---
+index: true
+course: "JC Computing"
+chapter: "Network security"
+concept: "Proxy servers"
+---
+
+# Proxy servers
+
 A intermediatry server used to let users in a private network access the internet.
 
 Purpose:

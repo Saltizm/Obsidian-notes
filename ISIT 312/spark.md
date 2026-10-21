@@ -1,3 +1,12 @@
+---
+index: true
+course: "ISIT 312"
+chapter: "Big data platforms"
+concept: "spark"
+---
+
+# spark
+
 .map() - java datastream. returns array with before and after operation (split by line) 
 .flatmap() - java datastream. return array with before and after operation (all in one)
 .reduce() - conditional stream

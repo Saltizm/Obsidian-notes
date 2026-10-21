@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI369"
+chapter: "Reconnaissance"
+concept: "Whois"
+---
+
+# Whois
+
 - Public directory of information about a given domain
 - This includes: 
 	- Owner name

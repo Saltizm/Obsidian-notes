@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Security foundations"
+concept: "Defence in depth approach"
+---
+
+# Defence in depth approach
+
 - Multilayer defense  ^129f66
 	- Different layers of the [[OSI model]] all have [[Active Sensor]] and protective measures
 

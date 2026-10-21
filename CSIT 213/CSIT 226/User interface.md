@@ -1,10 +1,19 @@
+---
+index: true
+course: "CSIT 213"
+chapter: "Human-computer interaction"
+concept: "User interface"
+---
+
+# User interface
+
 Part of the application that the
 user use to interact with the computer
 and for the computer to communicate results back with.
 
 
 ![[ACM SIGCHI traditional model.PNG]]
-<h2>Anatomy</h2>
+## Anatomy
 - [[Attention]] 
 - [[Perception]]
 - [[Information storage (memory)|Memory]]
@@ -28,12 +37,12 @@ This can be answered by inferring from the
 
 With the initial requirements addressed we can move on to forming the [[Layered Framework]] 
 
-<h2>Types</h2>
+## Types
 - Command Line interfaces(CLI)
 - Graphical User interfaces(GUI)
 - Natural User interfaces(NUI)
 
-<h2>Philosophy</h2>
+## Philosophy
 why care about UI?:
 interactions with technology is cognitive ([[Information IO]])
 Therefore, [[Cognitive Load Theory|limitations]] has to be accounted for

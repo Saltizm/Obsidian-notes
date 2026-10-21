@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Identity and access management"
+concept: "pass the ticket"
+---
+
+# pass the ticket
+
 - to pass a [[kerberos]] ticket to another machine to login into the victim's account
 
 ### Types 

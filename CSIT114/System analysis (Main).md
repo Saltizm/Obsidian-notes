@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT114"
+chapter: "Systems analysis"
+concept: "System analysis (Main)"
+---
+
+# System analysis (Main)
+
 System analysis determines **what** a [[system]] should accomplish
 usually done through [[decomposition]].
 
@@ -12,8 +21,8 @@ usually done through [[decomposition]].
 	- [[System modelling|Object model]]
 - Demonstrate [[Integrated CASE tools]]. 
 
-<h4>Activities of an analysis</h4>
+#### Activities of an analysis
 ![[Acitivtyofanalysis.png]]
 
-<h4>Overview</h4>
+#### Overview
 System analysis involves [[Project management]]. 

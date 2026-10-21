@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI369"
+chapter: "Ethical hacking foundations"
+concept: "notable examples"
+---
+
+# notable examples
+
 Mirai Botnet
 - Botnet on IOT devices
 - mirai worm infects cctv cameras by xiaomi

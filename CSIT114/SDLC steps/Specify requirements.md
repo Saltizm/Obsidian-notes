@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT114"
+chapter: "SDLC stages"
+concept: "Specify requirements"
+---
+
+# Specify requirements
+
 ```mermaid
 ---
 title: SDLC steps
@@ -14,7 +23,7 @@ id7[Complete system tests and the deploy solution]
 style id4 fill:black
 ```
 
-<h2>Requirements</h2>
+## Requirements
 Defined by [[FURPs]]
 
 Requirements are separated into two categories:

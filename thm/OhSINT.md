@@ -1,3 +1,12 @@
+---
+index: true
+course: "thm"
+chapter: "TryHackMe practice"
+concept: "OhSINT"
+---
+
+# OhSINT
+
 Task1:
 Could not for the life of me find the assignment image. Used https://exif.tools/ to get this result
 ![[Pasted image 20251216225537.png]]

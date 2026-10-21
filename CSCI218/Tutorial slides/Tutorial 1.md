@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI218"
+chapter: "Tutorials"
+concept: "Tutorial 1"
+---
+
+# Tutorial 1
+
 MCQ 
 c 
 c - svm

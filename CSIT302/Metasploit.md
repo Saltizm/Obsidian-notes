@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Security assessment"
+concept: "Metasploit"
+---
+
+# Metasploit
+
 ### .
 - A pen testing tool with a collection of [[CVE(Malware and exploits)|known exploits and payloads]].
 - **Specialised for Exploit development and execution**

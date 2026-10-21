@@ -1,3 +1,12 @@
+---
+index: true
+course: "JC Computing"
+chapter: "Computing fundamentals"
+concept: "PDPA"
+---
+
+# PDPA
+
 **Note the difference between these 3 words
 
 Privacy - a state in which one is not observed or disturbed by other people. / the state of being free from public attention.

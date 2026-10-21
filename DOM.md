@@ -1,3 +1,12 @@
+---
+index: true
+course: "Independent study"
+chapter: "Independent study"
+concept: "DOM"
+---
+
+# DOM
+
 A document encompassing all parts required to load a webpage.
 contains:
 - html document

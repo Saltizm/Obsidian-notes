@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI323"
+chapter: "Artificial intelligence"
+concept: "MDP"
+---
+
+# MDP
+
 gen ai for crawling
 - restricted web access
 - unable to adapt to new data ( uses training data to create solutions )

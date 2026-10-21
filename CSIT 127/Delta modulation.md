@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT 127"
+chapter: "Signals and transmission media"
+concept: "Delta modulation"
+---
+
+# Delta modulation
+
 Delta modulation is method to convert [[Analog]] signals into [[Digital]] signals whereby fidelity is of no importance. ( i.e voice, alarm ).
 
 As the name implies. Delta modulation measure the change in the [[Analog]] signal.

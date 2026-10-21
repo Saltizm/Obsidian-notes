@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Detection and response"
+concept: "Recovery Plan"
+---
+
+# Recovery Plan
+
 - A documented set of processes and procedures that are carried to recover the IT infrastructure in the event of a ***potential*** disaster ^727b68
 - Disaster can be man-made or natural 
 ### Why make a recovery plan

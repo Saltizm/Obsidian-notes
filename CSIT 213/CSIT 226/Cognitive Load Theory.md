@@ -1,9 +1,18 @@
+---
+index: true
+course: "CSIT 213"
+chapter: "Human-computer interaction"
+concept: "Cognitive Load Theory"
+---
+
+# Cognitive Load Theory
+
 A universal set of learning principles that are proven to result in efficient instructional environments as a consequence of leveraging human cognitive learning process.
 
 TLDR;
 human [[InformationIO|sensory]] and [[short term memory]] is limited and has to be worked around. 
 
-<h2>Anatomy</h2>
+## Anatomy
 ![[CLTmodel.PNG|500]]
 A person's memory capacity is like a rubber band.
 It is able to be stretched but doing so is tiring.

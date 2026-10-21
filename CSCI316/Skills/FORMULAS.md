@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI316"
+chapter: "Data science skills"
+concept: "FORMULAS"
+---
+
+# FORMULAS
+
 ![[Pasted image 20260110001135.png]]
 ![[Pasted image 20260110001407.png]]
 Squared error

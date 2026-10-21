@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT 235"
+chapter: "Keys and relational schemas"
+concept: "Super key"
+---
+
+# Super key
+
 - A set of attribute/ An attribute such that when closed will determine the entire [[Relational schema]] 
 - May not be suitable
 

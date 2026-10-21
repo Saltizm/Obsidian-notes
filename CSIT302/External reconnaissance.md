@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Security assessment"
+concept: "External reconnaissance"
+---
+
+# External reconnaissance
+
 - To harvest information to find [[Security Vulnerability]].
 - *External to the target*
 

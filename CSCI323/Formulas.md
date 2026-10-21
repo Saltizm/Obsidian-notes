@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI323"
+chapter: "Artificial intelligence"
+concept: "Formulas"
+---
+
+# Formulas
+
 ### Policy evaluation
 ![[Pasted image 20251025125053.png|500]]
 summarise:

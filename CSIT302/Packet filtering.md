@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Network security"
+concept: "Packet filtering"
+---
+
+# Packet filtering
+
 - done on the [[Network layer]] 
 - Inspects and filter fields within packet against a set of rules:
 	- **Source & Destination IP Addresses**

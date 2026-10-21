@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT 127"
+chapter: "Networking foundations"
+concept: "medium"
+---
+
+# medium
+
 [[Simplex]]:
 signal is transferred in a single direction
 

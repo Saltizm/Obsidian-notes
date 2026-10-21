@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT224"
+chapter: "Project management definitions"
+concept: "contingency"
+---
+
+# contingency
+
 - Predefined action or resources that are INCLUDED within the project used to respond to **Identified risks**. ^3f0d6a
 - Unlike [[Recovery Plan]] which is a fallback. Contingency aims to avoid the risk.
 

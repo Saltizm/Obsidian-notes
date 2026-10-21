@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT224"
+chapter: "Project management"
+concept: "Virtual teams"
+---
+
+# Virtual teams
+
 Virtual Teams  
 - Advantages  
 o Lowering costs because many virtual workers do not require office space or support beyond their home offices  

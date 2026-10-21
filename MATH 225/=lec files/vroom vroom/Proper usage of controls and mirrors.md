@@ -1,3 +1,12 @@
+---
+index: true
+course: "MATH 225"
+chapter: "Lectures"
+concept: "Proper usage of controls and mirrors"
+---
+
+# Proper usage of controls and mirrors
+
 ![[Pasted image 20241222172748.png]]
 ON: Turn key while turning the wheel left or right to unlock it 
 Off: Turn key with the wheel at rest

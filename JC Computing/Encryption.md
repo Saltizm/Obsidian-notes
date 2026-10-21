@@ -1,3 +1,12 @@
+---
+index: true
+course: "JC Computing"
+chapter: "Computing fundamentals"
+concept: "Encryption"
+---
+
+# Encryption
+
 A process to securely [[encode]] plain text into encrypted text that require a secret key to decode. ^5b6758
 
 Purpose:

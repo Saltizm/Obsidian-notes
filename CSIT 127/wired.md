@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT 127"
+chapter: "Networking foundations"
+concept: "wired"
+---
+
+# wired
+
 Signal can be transmitted through wires. 
 
 | Media Type   | Bandwidth | Performance                     | Repeater spacing |

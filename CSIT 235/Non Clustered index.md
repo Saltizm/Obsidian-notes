@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT 235"
+chapter: "Database indexing"
+concept: "Non Clustered index"
+---
+
+# Non Clustered index
+
 - index are ordered indirectly in a [[BStar Tree]]
 - keys are referenced by RIDS (row identifiers) stored separately 
 - RIDS are used as they are unique (Non unique values allowed )

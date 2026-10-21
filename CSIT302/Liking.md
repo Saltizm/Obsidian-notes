@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Social engineering"
+concept: "Liking"
+---
+
+# Liking
+
 Appealing to victim to gain their trust.
 Appealing people are more likely to be trusted. [[Halo effect]].
 

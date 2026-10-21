@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT 127"
+chapter: "Network protocols and layers"
+concept: "VoIP"
+---
+
+# VoIP
+
 Transfer of Voice signals using [[Packet switching]]. 
 A temporary [[IP]] address is assigned to each transmission.
 

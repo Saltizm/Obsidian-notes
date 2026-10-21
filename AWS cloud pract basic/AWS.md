@@ -1,3 +1,12 @@
+---
+index: true
+course: "AWS cloud pract basic"
+chapter: "AWS cloud services"
+concept: "AWS"
+---
+
+# AWS
+
 - [[IaaS]] (EC2)
 - [[PaaS]] (Lambda)
 - [[SaaS]](beanstalk)

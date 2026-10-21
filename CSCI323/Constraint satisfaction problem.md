@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI323"
+chapter: "Artificial intelligence"
+concept: "Constraint satisfaction problem"
+---
+
+# Constraint satisfaction problem
+
 CSP revolves around HARD constraints 
 - Example (sudoku)
 [[MDP]] revolves around SOFT constraints (penalties)

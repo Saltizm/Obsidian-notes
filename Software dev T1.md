@@ -1,3 +1,12 @@
+---
+index: true
+course: "Independent study"
+chapter: "Independent study"
+concept: "Software dev T1"
+---
+
+# Software dev T1
+
 RUDS
 
 User story - needs defined by actors (users)

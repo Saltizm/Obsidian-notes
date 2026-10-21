@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI369"
+chapter: "Ethical hacking foundations"
+concept: "ARP poisoning"
+---
+
+# ARP poisoning
+
 ### .
 - Also know as ARP spoofing
 - [[MITM]] attack that involves impersonating the router and victim

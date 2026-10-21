@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Security foundations"
+concept: "Random access memory"
+---
+
+# Random access memory
+
 Random Access Memory (RAM) is a type of volatile computer memory that temporarily stores data and machine code currently being used by a computer's operating system, applications, and processes. Unlike storage devices (e.g., HDDs or SSDs), RAM loses all stored data when the power is turned off.
 
 ### Key Characteristics

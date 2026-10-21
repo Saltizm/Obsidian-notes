@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI369"
+chapter: "Threat actors and cybercrime"
+concept: "Cybercrime"
+---
+
+# Cybercrime
+
 - Petty crime 
 - Main motivation is financial gains
 

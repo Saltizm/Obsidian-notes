@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT224"
+chapter: "Scope and requirements"
+concept: "Change request board"
+---
+
+# Change request board
+
 Provide guidelines for:
 - Preparing change request 
 - Evaluate change request

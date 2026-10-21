@@ -1,3 +1,12 @@
+---
+index: true
+course: "MATH 225"
+chapter: "Relations"
+concept: "Symmetry"
+---
+
+# Symmetry
+
 ![[Pasted image 20250206153731.png]]
 layman:
 for all values of A, 

@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Security foundations"
+concept: "Identity theft"
+---
+
+# Identity theft
+
 stealing someone's identity to get security clearance. 
 
 ### Method

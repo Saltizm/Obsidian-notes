@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Network security"
+concept: "Network segmentation"
+---
+
+# Network segmentation
+
 - Splitting a network into smaller sub-networks
 
 | Pros                                                      | Cons                          |

@@ -1,4 +1,13 @@
-# Task  1
+---
+index: true
+course: "thm"
+chapter: "TryHackMe practice"
+concept: "metasploit"
+---
+
+# metasploit
+
+## Task  1
 Introduction to the types of metasploit services.
 
 - Metasploit pro - With gui, has automation
@@ -8,7 +17,7 @@ Introduction to the types of metasploit services.
 		- Scanners 
 		- Payload creation 
 	- Tools
-# Task 2
+## Task 2
 ![[Pasted image 20260109025427.png]]
 ## Auxiliary
 ![[Pasted image 20260109025548.png]]
@@ -40,7 +49,7 @@ do nothings. Used as buffer for payload to ensure consistent size. Arranged by c
 ## Post
 post exploitation. Usually for data expulsion or privilege escalation 
 ![[Pasted image 20260109031125.png]]
-# Task 3
+## Task 3
 context - the current module used in the shell. Is shown as a directory
 (eg. windows/smb/ms17_010_eternalblue)
 

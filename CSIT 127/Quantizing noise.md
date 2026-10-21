@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT 127"
+chapter: "Signals and transmission media"
+concept: "Quantizing noise"
+---
+
+# Quantizing noise
+
 Quantizing noise is the result of converting an [[Analog]] signal to [[Digital]] signal. 
 
 [[Analog]] signals have an infinite number of values.

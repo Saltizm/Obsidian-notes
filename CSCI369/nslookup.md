@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI369"
+chapter: "Ethical hacking foundations"
+concept: "nslookup"
+---
+
+# nslookup
+
 - [[Kali linux]] tool used to check for DNS servers 
 - Used to obtain:
 	- DNS records

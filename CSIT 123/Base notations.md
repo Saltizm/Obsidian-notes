@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT 123"
+chapter: "Course notes"
+concept: "Base notations"
+---
+
+# Base notations
+
 Base notation is a counting system where **digits** in each **position** corresponds to a power of a certain **base**.
 
 ![[binary base notation|1000]]

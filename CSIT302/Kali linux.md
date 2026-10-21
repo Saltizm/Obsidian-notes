@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Security assessment"
+concept: "Kali linux"
+---
+
+# Kali linux
+
 - A pen testing tool with a board security toolset 
 - **Specialises in Full-spectrum pen testing**
 	- contains [[Packet sniffers|sniffers, listeners]] and various other tools

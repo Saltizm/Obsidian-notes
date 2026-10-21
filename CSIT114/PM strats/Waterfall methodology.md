@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT114"
+chapter: "Development methodologies"
+concept: "Waterfall methodology"
+---
+
+# Waterfall methodology
+
 
 | Advantages                                | Disadvantages                                          |
 | ----------------------------------------- | ------------------------------------------------------ |
@@ -8,7 +17,7 @@
 | Easy to manage                            | integration is all done at once                        |
 | Produce high quality products   (success) | Little stakeholder involvement                         |
 
-<h4> Use case </h4>
+#### Use case
 *Well know requirements*
 *Product definition is stable* - stakeholder request will not change
 *Technology is understood*

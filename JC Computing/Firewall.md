@@ -1,3 +1,12 @@
+---
+index: true
+course: "JC Computing"
+chapter: "Network security"
+concept: "Firewall"
+---
+
+# Firewall
+
 A system to prevent unauthorised access from entering a private network. ^9a30f9
 
 ### *purpose*
@@ -22,7 +31,7 @@ A system to prevent unauthorised access from entering a private network. ^9a30f9
 - Generally Hardware-based 
 - Used to filter network traffic to web applications ([[IaaS]])
 
-<h5>note: corporation used a combination of both to have more than one point of failure</h5>
+##### note: corporation used a combination of both to have more than one point of failure
 
 Drawbacks of firewalls:
 - single point of failure

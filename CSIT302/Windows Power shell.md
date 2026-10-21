@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Malware and post-exploitation"
+concept: "Windows Power shell"
+---
+
+# Windows Power shell
+
 - Windows built-in OOP scripting tool
 - used for automation
 

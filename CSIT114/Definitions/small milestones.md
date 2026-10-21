@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT114"
+chapter: "Core definitions"
+concept: "small milestones"
+---
+
+# small milestones
+
 Small milestones, or incremental development is the process of setting small achievable goals for the project to be completed in a short span of time.
 
 | Advantages                                      | Disadvantages            |

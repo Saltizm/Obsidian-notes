@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI369"
+chapter: "Ethical hacking foundations"
+concept: "Spamming"
+---
+
+# Spamming
+
 - unsolicited emails messages or requests
 - a form of [[social engineering]]
 ### Cat and mouse game

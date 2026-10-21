@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT114"
+chapter: "Systems analysis"
+concept: "Event"
+---
+
+# Event
+
 Event is something that occurs at a specific time and place, can be described.
 
 | Type           | Description                                                                                                    |
@@ -15,5 +24,5 @@ id1[Reorder point is reached for inventory] --> id2[order inventory item]
 ``` 
 
 
-<h4>Overview</h4>
+#### Overview
 Used in [[Event decomposition technique]].

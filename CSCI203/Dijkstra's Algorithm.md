@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI203"
+chapter: "Graph and greedy algorithms"
+concept: "Dijkstra's Algorithm"
+---
+
+# Dijkstra's Algorithm
+
 Used for finding the shortest path connecting all nodes to a specific node in a in a weighted  graph.
 
 ##### Instructions:

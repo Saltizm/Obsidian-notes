@@ -1,9 +1,18 @@
+---
+index: true
+course: "CSCI369"
+chapter: "Ethical hacking foundations"
+concept: "OS"
+---
+
+# OS
+
 ### .
 - Operating system
-### Examples
-- [[Kali linux]]
-- [[Windows]]
-- [[ubuntu]]
+> [!example]- Example
+> - [[Kali linux]]
+> - [[Windows]]
+> - [[ubuntu]]
 ### Anatomy
 #### Shell
 - Console like interface that provides you with access to a remote target **

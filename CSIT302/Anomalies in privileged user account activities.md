@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Security foundations"
+concept: "Anomalies in privileged user account activities"
+---
+
+# Anomalies in privileged user account activities
+
 - Changes in behavior could indicate [[Compromising|compromised account]] 
 - Could be used for [[Access and privilege Escalation]]
 

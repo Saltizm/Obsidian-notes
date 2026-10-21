@@ -1,9 +1,18 @@
-# CSCI218 – Foundations of Artificial Intelligence
+---
+index: true
+course: "CSCI218"
+chapter: "Artificial intelligence foundations"
+concept: "CSCI218 Spring2022 Answers"
+---
+
+# CSCI218 Spring2022 Answers
+
+## CSCI218 – Foundations of Artificial Intelligence
 ## Spring 2022 – Examination Answers
 
 ---
 
-# Question 1. Basic Concepts of AI (12 marks)
+## Question 1. Basic Concepts of AI (12 marks)
 
 ## 1. The Official Birth of AI (1 mark)
 
@@ -82,7 +91,7 @@ The internal model allows the agent to maintain a best estimate of the current w
 
 ---
 
-# Question 2. Machine Learning and Neural Networks (14 marks)
+## Question 2. Machine Learning and Neural Networks (14 marks)
 
 ## 1. Degree of Fit vs Complexity (3 marks)
 
@@ -169,7 +178,7 @@ Note: If biases are included, add one bias weight per neuron in every layer exce
 
 ---
 
-# Question 3. Computer Vision and NLP (10 marks)
+## Question 3. Computer Vision and NLP (10 marks)
 
 ## 1. Computer Vision (3 marks)
 
@@ -223,7 +232,7 @@ Split the labelled data into training and test sets and evaluate using:
 
 ---
 
-# Question 4. Search, Knowledge and Logic (12 marks)
+## Question 4. Search, Knowledge and Logic (12 marks)
 
 ## 1. Search Tree and Issues (2 marks)
 
@@ -308,7 +317,7 @@ With operator precedence, α = A ∨ ((¬B) ∧ C ∧ D). This sentence is true 
 
 ---
 
-# Question 5. Probabilistic Reasoning and Robotics (8 marks)
+## Question 5. Probabilistic Reasoning and Robotics (8 marks)
 
 ## 1. Alarm Bayes Network (5 marks)
 
@@ -400,7 +409,7 @@ This makes intuitive sense — Mary not calling is strong evidence against an al
 
 ---
 
-# Question 6. Safe and Responsible AI (4 marks)
+## Question 6. Safe and Responsible AI (4 marks)
 
 ## 1. AI Ethics (4 marks)
 

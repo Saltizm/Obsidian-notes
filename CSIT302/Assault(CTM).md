@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Security foundations"
+concept: "Assault(CTM)"
+---
+
+# Assault(CTM)
+
 - Attacker aim to **damage data and software** 
 - to stump or alter function of the system 
 

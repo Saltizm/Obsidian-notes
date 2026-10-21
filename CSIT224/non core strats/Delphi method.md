@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT224"
+chapter: "Project management techniques"
+concept: "Delphi method"
+---
+
+# Delphi method
+
 a decision making method developed by Rand Corp. 
 
 Delphi method seeks to solve issues such as:

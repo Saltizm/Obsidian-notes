@@ -1,3 +1,12 @@
+---
+index: true
+course: "Independent study"
+chapter: "Independent study"
+concept: "session 8"
+---
+
+# session 8
+
 ### Web application assessment methodology
 - [[White-box testing]]
 - [[Black-box testing]]

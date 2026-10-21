@@ -1,10 +1,19 @@
+---
+index: true
+course: "CSIT224"
+chapter: "Scope and requirements"
+concept: "requirement"
+---
+
+# requirement
+
 Requirement is the request of the 甲方爸爸 ( [[Stakeholders]] ).
 
-<h4> Acquiring Requirements </h4>
+#### Acquiring Requirements
 
 Need to understand the [[Stakeholders|stakeholders]] and empathise with them.
 methods for observation:
-<h5> observation of use </h5>
+##### observation of use
 - Tracking usage through various means :
 	- keystroke logger
 	- mouse movement logger
@@ -20,10 +29,10 @@ methods for observation:
 
 These can be done through various means but they are meant for the same outcomes.
 
-<h5> method of comparison </h5>
+##### method of comparison
 Generating ideas by comparing specific project practices or product characteristics (i.e., [[benchmarking]])
 
-<h5> Validating requirements </h5>
+##### Validating requirements
 
-<h5> Finalising </h5>
-Once a project requirement has been agreed upon, It will be added to the [[Scope]] next [[Baseline]].
+##### Finalising
+Once a project requirement has been agreed upon, It will be added to the [[CSIT224/Scope|scope]] next [[Baseline]].

@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Security governance"
+concept: "Security Policy"
+---
+
+# Security Policy
+
 - Set of ***criteria*** for provision of security service ^1ccf53
 - The ***statement*** of required protection for the information object
 - A set of ***rules*** that govern all aspects of security related system and system element behavior 

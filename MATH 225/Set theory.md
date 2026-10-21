@@ -1,3 +1,12 @@
+---
+index: true
+course: "MATH 225"
+chapter: "Set theory"
+concept: "Set theory"
+---
+
+# Set theory
+
 Set - collection of elements that are **unique**.
 
 | Symbol | Description                                            | Example Elements                                                                             |

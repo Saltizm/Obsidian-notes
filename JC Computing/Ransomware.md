@@ -1,3 +1,12 @@
+---
+index: true
+course: "JC Computing"
+chapter: "Cybersecurity threats"
+concept: "Ransomware"
+---
+
+# Ransomware
+
 Ransomware is a piece of malicious software that takes a system's files hostage and demand for a *ransom*. ^7c991b
 
 Features:

@@ -1,3 +1,12 @@
+---
+index: true
+course: "thm"
+chapter: "TryHackMe practice"
+concept: "Blind SQLi"
+---
+
+# Blind SQLi
+
 ### Always true query
 ' OR 1=1;--
 '--' ignore all proceeding commands

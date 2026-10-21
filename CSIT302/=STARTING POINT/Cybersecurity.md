@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Security foundations"
+concept: "Cybersecurity"
+---
+
+# Cybersecurity
+
 Company's Goal:
 - Secrecy
 - Confidentiality 

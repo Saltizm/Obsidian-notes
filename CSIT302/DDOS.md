@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Security foundations"
+concept: "DDOS"
+---
+
+# DDOS
+
 A **Distributed Denial-of-Service (DDoS)** attack floods a target (website/server) with massive fake traffic, making it **crash or slow down** for real users. ^9eade7
 
 ### How It Works
@@ -16,13 +25,13 @@ A **Distributed Denial-of-Service (DDoS)** attack floods a target (website/ser
 
 ---
 
-### Examples
-
-- **Mirai Botnet (2016)** – Hijacked IoT devices to take down major sites (Twitter, Netflix).
-- **GitHub (2018)** – Hit with **1.35 Tbps** traffic (one of the biggest DDoS attacks ever).
-
----
-
+> [!example]- Example
+>
+> - **Mirai Botnet (2016)** – Hijacked IoT devices to take down major sites (Twitter, Netflix).
+> - **GitHub (2018)** – Hit with **1.35 Tbps** traffic (one of the biggest DDoS attacks ever).
+>
+> ---
+>
 ### How to Prevent DDoS Attacks
 **Use DDoS Protection Services** – Cloudflare, AWS Shield.  
 **Monitor Traffic** – Detect abnormal spikes early.  

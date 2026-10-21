@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Detection and response"
+concept: "Threat intelligence"
+---
+
+# Threat intelligence
+
 - Information regarding potential or ongoing threats 
 ### Types of intelligence
 #### Tactical threat intelligence

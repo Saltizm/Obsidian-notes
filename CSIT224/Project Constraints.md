@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT224"
+chapter: "Project management"
+concept: "Project Constraints"
+---
+
+# Project Constraints
+
 Project constraints are limitations faced when [[Project management]] .
 ![[Pasted image 20240520211544.png]]
 

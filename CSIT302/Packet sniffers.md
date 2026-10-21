@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Network security"
+concept: "Packet sniffers"
+---
+
+# Packet sniffers
+
 - Eavesdropping on traffic in a network (packets)
 
 ##### Information obtainable

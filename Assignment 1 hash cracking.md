@@ -1,3 +1,12 @@
+---
+index: true
+course: "Independent study"
+chapter: "Assignments"
+concept: "Assignment 1 hash cracking"
+---
+
+# Assignment 1 hash cracking
+
 ### Outline
 - Tools used
 	- nmap

@@ -1,12 +1,21 @@
+---
+index: true
+course: "CSIT 127"
+chapter: "Networking foundations"
+concept: "Bits"
+---
+
+# Bits
+
 Bit is the smallest unit of [[data]] consisting of a binary value.
 
 The flow of electrons are controlled by tiny components called [[transistors]]. (Analogous to a On/Off tap to control water flow.) 
 
 The presence of current flow is represented as 1 and the absence of as 0. This is called a bit, short for binary digit.
-<h4> The method </h4>
+#### The method
 ![[denary to binary]]
 
-<h4> Bitrate </h4>
+#### Bitrate
 The speed of [[data]] transfer is called **bit rate**.
 Bit rate can be increased through.
 - Higher [[Frequency]]

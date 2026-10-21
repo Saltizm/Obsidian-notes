@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI369"
+chapter: "Web security"
+concept: "HSTS"
+---
+
+# HSTS
+
 ### .
 - HTTP Strict Transport Security
 - A rule that instructs the browser to always request in [[HTTPS]] 

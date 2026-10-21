@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT 127"
+chapter: "Networking foundations"
+concept: "Data Communication"
+---
+
+# Data Communication
+
 Transfer of [[Data]], *digital* or *analog* using a digital or analog [[Signal]].
 
 ![[Datacommdiagram.PNG]]

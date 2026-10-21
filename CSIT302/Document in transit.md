@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Security governance"
+concept: "Document in transit"
+---
+
+# Document in transit
+
 - "Documents" refers to any [[data]] being transported
 
 ### Methods

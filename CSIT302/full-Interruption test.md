@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Security foundations"
+concept: "full-Interruption test"
+---
+
+# full-Interruption test
+
 A **full interruption test** (also known as a **disaster recovery test** or **full failover test**) is a high-level validation of an organization's ability to recover critical systems.
 
 - this test involves **completely stopping primary systems** and switching to backup/recovery systems to ensure business continuity.

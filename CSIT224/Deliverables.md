@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT224"
+chapter: "Scope and requirements"
+concept: "Deliverables"
+---
+
+# Deliverables
+
 A deliverable is anything that brings [[Stakeholders|investors and top management]] **information** regarding the project is a deliverable
 
 List of deliverables Documents:

@@ -1,3 +1,12 @@
+---
+index: true
+course: "JC Computing"
+chapter: "Network security"
+concept: "Network (ISO model)"
+---
+
+# Network (ISO model)
+
 router:
 to assign incoming packets to their corresponding mac addresses according to the ip header.
 

@@ -1,6 +1,15 @@
+---
+index: true
+course: "CSIT114"
+chapter: "Systems analysis"
+concept: "Event decomposition technique"
+---
+
+# Event decomposition technique
+
 [[Event]] [[decomposition]] technique uses a narrative of a actor interacting with a [[system]] and using relevant events to determine the use cases of the [[system]].
 
-<h4>Application</h4>
+#### Application
 Take the use case of a supermarket.
 
 The actor we will be following first will be the ***Customer***.

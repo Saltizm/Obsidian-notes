@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT 235"
+chapter: "Keys and relational schemas"
+concept: "Attribute set"
+---
+
+# Attribute set
+
 - an attribute set is a collection of attributes that describe all the characteristics of an entity in a domain through [[Functional Dependancy|functional dependancies]] 
 - an attribute set is closed if all attribute is *Functionally dependent* on one *primary key*
 ### Algorithm

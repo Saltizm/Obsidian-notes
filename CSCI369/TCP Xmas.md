@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI369"
+chapter: "Ethical hacking foundations"
+concept: "TCP Xmas"
+---
+
+# TCP Xmas
+
 ### .
 - Sends non handshake flags (PSH, FIN, URG)
 - Rarely used for mapping

@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT 213"
+chapter: "Human-computer interaction"
+concept: "User experience"
+---
+
+# User experience
+
 is an approach to product development that incorporates direct user feedback throughout the development cycle (human-centered design) in order to reduce costs and create products and tools that meet user needs and have a high level of usability (are easy to use)
 
 TLDR:

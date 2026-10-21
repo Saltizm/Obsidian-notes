@@ -1,3 +1,12 @@
+---
+index: true
+course: "JC Computing"
+chapter: "Computing fundamentals"
+concept: "Temp"
+---
+
+# Temp
+
 Linked list 
 -	has pointers ( takes up space )
 -	has a sequence/ order
@@ -12,7 +21,7 @@ Array
 	- has predefined length (limited)
 
 
-<h3> database </h3>
+### database
 for each table only 1 Primary key can exist
 Foreign key has to be Primary key in a one-to-many/ many-to-one relationship
 

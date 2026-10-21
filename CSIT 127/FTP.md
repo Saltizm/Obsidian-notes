@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT 127"
+chapter: "Network protocols and layers"
+concept: "FTP"
+---
+
+# FTP
+
 File transfer protocol( FTP ) is an [[Application layer]] protocol for file transfer across the internet.
 
 [[URL|URL protocol code]]: ftp

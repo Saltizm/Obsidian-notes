@@ -1,3 +1,12 @@
+---
+index: true
+course: "JC Computing"
+chapter: "Network security"
+concept: "Dynamic filtering"
+---
+
+# Dynamic filtering
+
 Filtering that takes into account the rest of the incoming packets to determine if the packet is...
 
 - valid (from the same source)

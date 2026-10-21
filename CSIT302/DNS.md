@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Network security"
+concept: "DNS"
+---
+
+# DNS
+
 - Domain name service 
 - Hierarchical naming system for domains
 ### THM
@@ -22,11 +31,11 @@
 	- asks other server for address (usually in cache)
 - Authoritative DNS
 	- has a phonebook of dns records
-### Example 
-Company.com (Root)
-- Dubai.Company.com(Child)
-- China.Company.com(Parent)
-	- Shanghai.China.Company.com(Child)
+> [!example]- Example
+> Company.com (Root)
+> - Dubai.Company.com(Child)
+> - China.Company.com(Parent)
+> 	- Shanghai.China.Company.com(Child)
 ### DNS records
 Can be access either through a [[Whois]], or [[nslookup]]
 - consist of tuple:

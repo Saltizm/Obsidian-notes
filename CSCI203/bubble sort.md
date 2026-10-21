@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI203"
+chapter: "Sorting algorithms"
+concept: "bubble sort"
+---
+
+# bubble sort
+
 Instructions:
 1. **Stepping** through the unsorted list
 2. comparing 2 items at a time and swapping if the wrong order

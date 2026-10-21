@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Detection and response"
+concept: "IoC (indicator of compromise)"
+---
+
+# IoC (indicator of compromise)
+
 >[!note]+
 >A intrusion with many artifacts indicate high confidence from the attacks possible nearing the end of  the [[Kill Chain]]
 
@@ -17,8 +26,8 @@
 #### IDS and IPS
 ![[IDS and IPS#^352b9f]]
 ![[IDS and IPS#^4bf4ad]]
-### Examples
-#### Petya ransomware
-- Strange [[Windows Power shell]] commands in log
-	- command made to reschedule a restart
-- [[Port]] scanning on TCP139, TCP445
+> [!example]- Example
+> #### Petya ransomware
+> - Strange [[Windows Power shell]] commands in log
+> 	- command made to reschedule a restart
+> - [[Port]] scanning on TCP139, TCP445

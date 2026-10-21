@@ -1,3 +1,12 @@
+---
+index: true
+course: "JC Computing"
+chapter: "Computing fundamentals"
+concept: "Object Oriented Programming"
+---
+
+# Object Oriented Programming
+
 **Anatomy of OOP**
 Class: a blueprint that defines the attribute and method of an object
 Object: an instance of a class, a real world entity that contains attributes and methods

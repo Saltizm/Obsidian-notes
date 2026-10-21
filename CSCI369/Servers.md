@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI369"
+chapter: "Ethical hacking foundations"
+concept: "Servers"
+---
+
+# Servers
+
 - Service computers 
 - Used to provide a service to Clients in the Client-Server model.
 

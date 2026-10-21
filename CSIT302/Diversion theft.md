@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Social engineering"
+concept: "Diversion theft"
+---
+
+# Diversion theft
+
 To manipulate delivery/transport company to redirect their deliveries to a designated location set by malicious actors(usually for collection) instead of the actual delivery destination.
 
 Key principle used:

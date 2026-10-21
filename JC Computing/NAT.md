@@ -1,1 +1,0 @@
-NAT (network address transmission) makes it so that each device in the private network is provided a new ip address when accessing the internet.

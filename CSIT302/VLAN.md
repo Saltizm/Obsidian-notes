@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Network security"
+concept: "VLAN"
+---
+
+# VLAN
+
 - Virtual Local Area network
 - Logically separated networks in a larger network
 

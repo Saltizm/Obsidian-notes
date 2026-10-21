@@ -1,17 +1,18 @@
-### Outline
-Targeted system : metasploitable2 virtual machine
-Target IP: 10.0.2.3
-Network type: Nat  network
+---
+index: true
+course: "Independent study"
+chapter: "Cybersecurity practice"
+concept: "ARP Test and ARP Spoofing"
+---
 
-Host system: kali linux
-Host IP: 10.0.2.4
-Network type: Nat network
+# ARP Test and ARP Spoofing
 
-Tools used: 
-- Ping 
-- Scapy
+## Lab environment
 
-### Process
+![[Assignment 1 Lab environment]]
+
+## Process
+
 - Pinged target machine to check if it up
 ![[Pasted image 20260810003040.png]]
 - Ran "arptest" scapy script to receive target's MAC address to use for arp spoofing and saved the received MAC address and ip under "clues.txt"
@@ -27,7 +28,7 @@ Tools used:
 - This is the result from grep 'ARP' 
 ![[Pasted image 20260810004622.png]]
 
-### Summary
+## Summary
 The Arp attack works by sending layer 2 packets (ARP) to both the gateway router and target. 
 
 Packet to the target convinces the target that you are the gateway

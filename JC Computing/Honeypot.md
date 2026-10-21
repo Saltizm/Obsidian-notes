@@ -1,3 +1,12 @@
+---
+index: true
+course: "JC Computing"
+chapter: "Cybersecurity threats"
+concept: "Honeypot"
+---
+
+# Honeypot
+
 Honeypot are series of servers (Honeynets) that appear to legitamate servers with intentional vulnerabilities.
 
 Purpose:

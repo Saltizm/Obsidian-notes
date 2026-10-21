@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Identity and access management"
+concept: "Active directory"
+---
+
+# Active directory
+
 - Central database for managing user (registry for users)
 - Used in large networks
 - Broad term for most "directory based identity related services"

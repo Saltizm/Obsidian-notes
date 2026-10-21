@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI369"
+chapter: "Ethical hacking foundations"
+concept: "Network port"
+---
+
+# Network port
+
 ### .
 - A number that specify the a particular server that will be ran on a client program on the [[Application layer]] 
 - Allow for communication between [[Application layer]] and [[Transport layer]]

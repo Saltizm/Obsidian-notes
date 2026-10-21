@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Security foundations"
+concept: "Attack surface"
+---
+
+# Attack surface
+
 - All possible entry point and vulnerability within a system
 
 ### Types

@@ -1,7 +1,16 @@
-<h4> Signed integers </h4>
+---
+index: true
+course: "CSIT 123"
+chapter: "Course notes"
+concept: "2's complement"
+---
+
+# 2's complement
+
+#### Signed integers
  binary values can be created from **Signed integer**
  these are called **Complement bits**
-<h5> process </h5>
+##### process
 ![[complement bits]]
 
 2's complements can be identified by the MSB(most significant bit).
@@ -9,8 +18,8 @@
 **0** represents positive value.
 **1** represents negative value.
 
-<h4> Arithmetic </h4>
+#### Arithmetic
 ![[no overload 2's calc|1000]]
 
-<h5> Overflow </h5>
+##### Overflow
 An 2's complement overflow is when a bit 

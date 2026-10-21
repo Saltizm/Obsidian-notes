@@ -1,7 +1,16 @@
+---
+index: true
+course: "CSIT114"
+chapter: "Systems analysis"
+concept: "Stakeholders"
+---
+
+# Stakeholders
+
 A stakeholder in business is an individual, group, or party that has an interest in a company and its outcomes as they are ***affected*** by it.
 
 
-<h3>Process of identification</h3>
+### Process of identification
 To maximise chance of approval for the project, stakeholders need to be satisfied.
 Proper analysis of stakeholders can help better integrate stakeholders into the project.
 ![[stakeholder process diagram.png]]
@@ -15,12 +24,12 @@ Proper analysis of stakeholders can help better integrate stakeholders into the 
 | Executive   | interacts with the [[system]] indirectly             |
 
 ![[Drawing 2024-03-03 23.39.05.excalidraw|1000]]
-<h5>Important stakeholders</h5>
+##### Important stakeholders
 *Client* - Funds the project (Executive, External)
 *Steering(oversight)  Committee* - Clients and managers who review progress (Executive, External)
 *User* - people using the [[system]] (Operational, External)
 
-<h4> Stakeholder engagement levels </h4>
+#### Stakeholder engagement levels
 - Unaware: unaware of the project and its potential impacts on them
 - Resistant: aware of the project yet resistant to change
 - Neutral: aware of the project yet neither supportive nor resistant

@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Malware and post-exploitation"
+concept: "Rootkits"
+---
+
+# Rootkits
+
 - malware use to provide *persistent* remote control over a [[Compromised OS]]  ^ea5778
 - Kernel level (same privilege level as the systems OS) ^b4c5cf
 

@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT 235"
+chapter: "Database design"
+concept: "Non trivial FD"
+---
+
+# Non trivial FD
+
 if column (B) is not a proper subset of column (A) when A -> B (A functionally determine B)
 
 ![[Non trivial venn diagram]]

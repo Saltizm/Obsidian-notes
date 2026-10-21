@@ -1,3 +1,12 @@
+---
+index: true
+course: "JC Computing"
+chapter: "Cybersecurity threats"
+concept: "Worms"
+---
+
+# Worms
+
 Worms are malicious software spread throughout a network usually via a *network vulnerability*.
 Self replicating (standalone) ^365fd0
 

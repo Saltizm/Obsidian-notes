@@ -1,8 +1,17 @@
+---
+index: true
+course: "CSIT 213"
+chapter: "Human-computer interaction"
+concept: "Heuristics"
+---
+
+# Heuristics
+
 Heuristics are mental shortcuts that allow people to make judgments and solve problems quickly
 ![[heuristics icon.PNG]]
 Design solution formed through Heuristics are considered design patterns.
 
-<h2>basic patterns</h2>
+## basic patterns
 physical:
 - [[Two-panel selection]]
 - [[Canvas Plus palette]]

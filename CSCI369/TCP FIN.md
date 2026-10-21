@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI369"
+chapter: "Ethical hacking foundations"
+concept: "TCP FIN"
+---
+
+# TCP FIN
+
 ### .
 - Sends FIN flag 
 - More stealthy version of [[TCP Xmas]]

@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI323"
+chapter: "Artificial intelligence"
+concept: "Game theory 1"
+---
+
+# Game theory 1
+
 Multiple actor 
 Decision making 
 env adversarial in nature - one actors increase results in one actors decrease

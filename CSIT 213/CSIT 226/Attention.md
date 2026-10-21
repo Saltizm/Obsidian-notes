@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT 213"
+chapter: "Human-computer interaction"
+concept: "Attention"
+---
+
+# Attention
+
 Human have selective perception to help concentrate on one thing without being overwhelmed by stimulus.
 
 Loud and vibrant design can catch the attention of the user. 

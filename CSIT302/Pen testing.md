@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Security assessment"
+concept: "Pen testing"
+---
+
+# Pen testing
+
 pen testing (penetration testing) refers to the practice of finding vulnerability within the system before a threat actor to increase [[Security posture]]
 
 >[!Acronym]-

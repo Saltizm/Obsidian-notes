@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Malware and post-exploitation"
+concept: "Windows Registry"
+---
+
+# Windows Registry
+
 - hierarchical database storing 
 	- critical system
 	- application

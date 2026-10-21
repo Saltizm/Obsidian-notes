@@ -1,3 +1,12 @@
+---
+index: true
+course: "thm"
+chapter: "Offensive security"
+concept: "Session 4"
+---
+
+# Session 4
+
 No plan survive first contact with the enemy 
 - write for in the moment (notetaking)
 	- Guideline for notetaking

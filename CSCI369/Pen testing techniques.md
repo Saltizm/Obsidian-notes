@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI369"
+chapter: "Ethical hacking foundations"
+concept: "Pen testing techniques"
+---
+
+# Pen testing techniques
+
 ### Process
 - Information gathering
 - Scanning ( using port scanners like [[Nmap]])
@@ -23,6 +32,6 @@
 ### Fuzzing
 ![[Fuzzing]]
 ### Metasploit
-![[Metasploit]]
+![[CSIT302/Metasploit]]
 ### Source code analysis
 ![[Source code analysis]]

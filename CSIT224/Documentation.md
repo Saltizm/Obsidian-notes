@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT224"
+chapter: "Project management"
+concept: "Documentation"
+---
+
+# Documentation
+
 [[Project Charter]]
 [[Scope statement]]
 [[Project organisation chart]]

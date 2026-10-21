@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Security foundations"
+concept: "Incidence response"
+---
+
+# Incidence response
+
 - Incidence response is used as a plan for responding to an [[TLCM|incident]].
 - It details what and how a threat is managed 
 ### Foundation of an incidence response

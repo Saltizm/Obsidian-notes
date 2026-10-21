@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI203"
+chapter: "Data structures"
+concept: "Stack"
+---
+
+# Stack
+
 Holds data of a single type
 Variable size
 First in Last out order(FILO)

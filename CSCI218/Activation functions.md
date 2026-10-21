@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI218"
+chapter: "Artificial intelligence foundations"
+concept: "Activation functions"
+---
+
+# Activation functions
+
 ### Probability based
 - Softmax -
 	- range : (0,1)

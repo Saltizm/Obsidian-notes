@@ -1,8 +1,17 @@
+---
+index: true
+course: "CSIT224"
+chapter: "Project management definitions"
+concept: "Risk register"
+---
+
+# Risk register
+
 A risk register is **a document that is used as a risk management tool to identify potential setbacks within a project** (Monitoring risks).
 
 ![[Pasted image 20240601184049.png]]
  
- <h5> Key elements </h5>
+##### Key elements
 
 | Element     | Explanation                                                                                       |
 | ----------- | ------------------------------------------------------------------------------------------------- |

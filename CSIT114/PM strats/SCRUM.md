@@ -1,54 +1,55 @@
-Agile derivative. Deliver incremental changes similar to [[Extreme Programming]].
+---
+index: true
+course: "CSIT114"
+chapter: "Development methodologies"
+concept: "Scrum"
+---
 
-<h4>Components</h4>
-<h5>roles</h5>
-*Product owner* - Stakeholders that control the project.
+# Scrum
+
+An Agile framework that delivers incremental changes, similar to [[Extreme Programming]].
+
+## Components
+
+### Roles
+
+**Product owner** - Stakeholders that control the project.
 - Defining product backlog ( features to implement )
-- Set priorities 
+- Set priorities
 
-*Scrum master* - Manager of a scrum process
+**Scrum master** - Manager of a Scrum process.
 - Manage the schedule and resources the current scrum
-- Facilitate scrum practices 
+- Facilitate scrum practices
 
-*Development team* -  Create and maintain product
-- Slave
+**Development team** - Creates and maintains the product.
 
-<h5> Artifact </h5>
-*Product backlog* - A prioritized list of all features, enhancements, and bug fixes that constitute the product's requirements.
+### Artifacts
 
-*Sprint Backlog* - A subset of the product backlog selected for implementation during a specific sprint.
+**Product backlog** - A prioritized list of all features, enhancements, and bug fixes that constitute the product's requirements.
 
-*Increment* - The sum of all product backlog items completed during a sprint, representing a potentially shippable product.
+**Sprint backlog** - A subset of the product backlog selected for implementation during a specific sprint.
 
+**Increment** - The sum of all product backlog items completed during a sprint, representing a potentially shippable product.
 
-<h5> Events </h5>
-*Sprint* - Time period to complete a potentially shippable product
+### Events
 
-*Sprint planning* - scheduling for sprint
+**Sprint** - Time period to complete a potentially shippable product.
 
-*Daily scrum* - Brief daily meeting to  synchronise and discuss progress and plans for the day 
+**Sprint planning** - Scheduling for a sprint.
 
-*Sprint review* - meeting to showcase the work done during the sprint
+**Daily Scrum** - Brief daily meeting to synchronise and discuss progress and plans for the day.
 
-*Sprint retrospective* - Reflect on the work done and discuss what could be done better
+**Sprint review** - Meeting to showcase the work done during the sprint.
 
+**Sprint retrospective** - Reflect on the work done and discuss what could be done better.
 
+## Practices
 
-<h4> Practices </h4>
-*Clear product backlog* - Maintain a well defined product backlog to reflect the requirements and features desired by stakeholders
-
-*Effective sprint planning* - Break down product backlog items into task and estimate the effort and time needed.
-
-*Daily scrum* - Keep team focused and updated on progress. Update team on plans for the day
-
-*Continuous integration* - ensure that codebase is continuously worked on to fix and improve it.
-
-*Sprint review and retrospective* - Provide feedback on what to do better. provide valuable information about team performance.
-
-*High team involvement *- Encourage collaboration and skill exchange. Independency.
-
-*Transparency* - Maintain transparency regarding all aspects of the project. 
-
-*Adaptability* - Embrace changes in plans from day to day. 
-
-
+- **Clear product backlog:** Maintain a well-defined product backlog that reflects desired requirements and features.
+- **Effective sprint planning:** Break down backlog items into tasks and estimate effort and time.
+- **Daily Scrum:** Keep the team focused and updated on progress and plans for the day.
+- **Continuous integration:** Continuously integrate changes to improve the codebase.
+- **Sprint review and retrospective:** Gather feedback and identify team improvements.
+- **High team involvement:** Encourage collaboration, skill exchange, and independence.
+- **Transparency:** Maintain visibility across all aspects of the project.
+- **Adaptability:** Embrace day-to-day changes in plans.

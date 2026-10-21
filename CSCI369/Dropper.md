@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI369"
+chapter: "Exploitation techniques"
+concept: "Dropper"
+---
+
+# Dropper
+
 ### .
 - How a malware replicated and transmitted
 #### Types of Droppers

@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Security foundations"
+concept: "join dependancies"
+---
+
+# join dependancies
+
 - Join dependency is when a table can be broken down into smaller tables without:
 	- Loss of information
 	- Creation of extra information

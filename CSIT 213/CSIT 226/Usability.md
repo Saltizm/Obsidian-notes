@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT 213"
+chapter: "Human-computer interaction"
+concept: "Usability"
+---
+
+# Usability
+
 goals of usability:
 - effective to use
 - efficient to use

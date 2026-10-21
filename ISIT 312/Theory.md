@@ -1,3 +1,12 @@
+---
+index: true
+course: "ISIT 312"
+chapter: "Big data platforms"
+concept: "Theory"
+---
+
+# Theory
+
 ### 1. Core Concepts: Cluster Computing and Big Data
 
 • A **computer cluster** is defined as a collection of computers (nodes) connected via a high-speed network that work together to simulate a single, much more powerful computer system.

@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Security governance"
+concept: "Security posture"
+---
+
+# Security posture
+
 The overall strength and effectiveness of an organization's cybersecurity defenses and ability to recover from attacks.
 
 ### Factors

@@ -1,6 +1,15 @@
+---
+index: true
+course: "CSIT 127"
+chapter: "Network protocols and layers"
+concept: "UDP"
+---
+
+# UDP
+
 User Datagram Protocol is a [[network|connectionless]] transfer protocol.
 
-<h2>Function</h2>
+## Function
 - Streaming
 - [[VoIP]]
 

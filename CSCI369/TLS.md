@@ -1,2 +1,11 @@
+---
+index: true
+course: "CSCI369"
+chapter: "Web security"
+concept: "TLS"
+---
+
+# TLS
+
 - [[Transport layer ]]security. Measures that ensure safe transfer of data between two hosts.
 - SSL is the precursor to TLS and has been depreciated. The terms are interchangable

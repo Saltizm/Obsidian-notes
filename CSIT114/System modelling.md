@@ -1,6 +1,15 @@
+---
+index: true
+course: "CSIT114"
+chapter: "Systems analysis"
+concept: "System modelling"
+---
+
+# System modelling
+
 A system model is a ***process-oriented*** representation that emphasizes the influences, or flow, of information between ***modules***.
 
-<h3>Types of models</h3>
+### Types of models
 - Textual models 
 	- something written down or described
 	- I.e. Reports, documents and studies
@@ -14,7 +23,7 @@ A system model is a ***process-oriented*** representation that emphasizes the in
 
 It is ideal to use a combination of different model types to better illustrate the system specifics. 
 
-<h2>Purpose</h2>
+## Purpose
 1. *Learning* from the modeling process
 2. *Reducing complexity* by [[abstraction]]
 3. *Help Remember* details from the system

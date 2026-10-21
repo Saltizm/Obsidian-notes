@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT 127"
+chapter: "Networking foundations"
+concept: "Nyquist theorem"
+---
+
+# Nyquist theorem
+
 The Nyquist theorem states that for a perfect deconstruction and reconstruction of an [[Analog]] signal. 
 The [[Sampling rate]]  should be double the [[Frequency]] of the analog signal.
 This is usually used in digital sound processing.

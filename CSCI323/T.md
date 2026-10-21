@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI323"
+chapter: "Artificial intelligence"
+concept: "T"
+---
+
+# T
+
 phi(x) - transform input data into 2d space seperable by a decision line
 
 update w and b during backpropagation

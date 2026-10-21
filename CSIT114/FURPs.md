@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT114"
+chapter: "Systems analysis"
+concept: "FURPs"
+---
+
+# FURPs
+
 FURPs is a model that classifies software quality attributes.
 FURPs is used to classify both functional and non-functional requirements for a [[system]]
 

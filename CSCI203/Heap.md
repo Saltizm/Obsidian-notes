@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI203"
+chapter: "Data structures"
+concept: "Heap"
+---
+
+# Heap
+
 Heap is a hierarchical [[Binary Search Tree|tree]] data structure for an efficient priority queue ( order of operations ).
 Max heap - Highest value is the root
 Min heap - Lowest value is the root

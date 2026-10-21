@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Detection and response"
+concept: "Unusual outbound traffic"
+---
+
+# Unusual outbound traffic
+
 - Irregular network might indicate [[Compromising|compromised system]] 
 - likely an attempt to perform a [[reverse shell]] attack to connect back to **command and control server ( external server )**
 

@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Identity and access management"
+concept: "kerberos"
+---
+
+# kerberos
+
 - ticket based authentication protocol
 - used for secure over the internet client to server connection
 

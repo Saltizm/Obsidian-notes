@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI316"
+chapter: "Big data and data mining"
+concept: "answer key"
+---
+
+# answer key
+
 ### CSCI316 Big Data Mining Techniques and Implementation
 Final Examination Paper Session 3 2021 - Answers
 Question 1 (7 marks)
@@ -8,7 +17,7 @@ def word_frequencies(X):
     frequencies = pd.Series(X).value_counts()
     return frequencies
 ```
-# Alternative using collections.Counter
+## Alternative using collections.Counter
 from collections import Counter
 def word_frequencies_alt(X):
     return dict(Counter(X))
@@ -232,9 +241,9 @@ from pyspark.sql import SparkSession
 from pyspark.sql.functions import col, avg, count, desc, row_number
 from pyspark.sql.window import Window
 
-# Assume PATENT and CITATION dataframes are already defined
+## Assume PATENT and CITATION dataframes are already defined
 
-# (a) Find country with highest average number of claims per patent
+## (a) Find country with highest average number of claims per patent
 country_avg_claims = PATENT.groupBy("COUNTRY") \
     .agg(avg("CLAIM_NUMBER").alias("avg_claims"))
 
@@ -245,22 +254,22 @@ result_a = country_avg_claims.filter(col("avg_claims") == max_avg_claims)
 print("Country with highest average claims:")
 result_a.show()
 
-# (b) Find patent name(s) with highest citation count
-# Calculate citation count for each patent
+## (b) Find patent name(s) with highest citation count
+## Calculate citation count for each patent
 citation_count = CITATION.groupBy("CITED") \
     .agg(count("*").alias("citation_count"))
 
-# Join with PATENT to get patent names
+## Join with PATENT to get patent names
 patent_citations = citation_count.join(
     PATENT, 
     citation_count.CITED == PATENT.PATENT_ID, 
     "inner"
 ).select("PATENT_NAME", "citation_count")
 
-# Find maximum citation count
+## Find maximum citation count
 max_citations = patent_citations.agg({"citation_count": "max"}).collect()[0][0]
 
-# Get patents with maximum citations
+## Get patents with maximum citations
 result_b = patent_citations.filter(col("citation_count") == max_citations)
 
 print("Patent name(s) with highest citation count:")
@@ -291,20 +300,20 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import train_test_split
 from scikeras.wrappers import KerasRegressor
 
-# Assume X (features) and y (target) are already loaded
-# X has 4 features, y is numerical target
+## Assume X (features) and y (target) are already loaded
+## X has 4 features, y is numerical target
 
-# Split data
+## Split data
 X_train, X_test, y_train, y_test = train_test_split(
     X, y, test_size=0.2, random_state=42
 )
 
-# Scale features
+## Scale features
 scaler = StandardScaler()
 X_train_scaled = scaler.fit_transform(X_train)
 X_test_scaled = scaler.transform(X_test)
 
-# Function to create model with hyperparameter
+## Function to create model with hyperparameter
 def create_model(hidden_neurons=10):
     model = keras.Sequential([
         layers.Input(shape=(4,)),  # Input layer (4 features)
@@ -321,7 +330,7 @@ def create_model(hidden_neurons=10):
     
     return model
 
-# Wrap model for scikit-learn compatibility
+## Wrap model for scikit-learn compatibility
 model = KerasRegressor(
     model=create_model,
     hidden_neurons=10,
@@ -330,14 +339,14 @@ model = KerasRegressor(
     verbose=0
 )
 
-# Define hyperparameter grid
+## Define hyperparameter grid
 param_grid = {
     'hidden_neurons': [5, 10, 20, 50],
     'batch_size': [16, 32, 64],
     'epochs': [50, 100]
 }
 
-# Perform grid search
+## Perform grid search
 grid = GridSearchCV(
     estimator=model,
     param_grid=param_grid,
@@ -345,18 +354,18 @@ grid = GridSearchCV(
     scoring='neg_mean_squared_error'
 )
 
-# Train with hyperparameter tuning
+## Train with hyperparameter tuning
 grid_result = grid.fit(X_train_scaled, y_train)
 
-# Print best parameters
+## Print best parameters
 print(f"Best parameters: {grid_result.best_params_}")
 print(f"Best CV score: {-grid_result.best_score_:.4f} MSE")
 
-# Evaluate on test set
+## Evaluate on test set
 test_score = grid_result.score(X_test_scaled, y_test)
 print(f"Test set R² score: {test_score:.4f}")
 
-# Alternative: Direct training without grid search
+## Alternative: Direct training without grid search
 def train_single_model(X_train, y_train, X_test, y_test, hidden_neurons=20):
     model = keras.Sequential([
         layers.Input(shape=(4,)),

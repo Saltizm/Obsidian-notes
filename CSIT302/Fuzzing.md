@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Security assessment"
+concept: "Fuzzing"
+---
+
+# Fuzzing
+
 - Automatic
 - Provide invalid input using a random data set
 

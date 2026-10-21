@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI203"
+chapter: "Graph and greedy algorithms"
+concept: "Greedy algorithm"
+---
+
+# Greedy algorithm
+
 Greedy algorithm take the ***Locally optimal choices*** in hopes of a ***globally optimal solution***.
 
 ##### Characteristics
@@ -10,7 +19,7 @@ if candidate is valid for the solution. Add to selected set.
 
 > [!Coin problem]-
 >![[coin problem|5000]]
-##### Examples
-![[Dijkstra's Algorithm]]
-![[Kruskal's algorithm]]
-![[Prim's algorithm]]
+> [!example]- Example
+> ![[Dijkstra's Algorithm]]
+> ![[Kruskal's algorithm]]
+> ![[Prim's algorithm]]

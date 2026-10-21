@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT114"
+chapter: "Systems analysis"
+concept: "CHAOS report"
+---
+
+# CHAOS report
+
 CHAOS report is a study by The Standish Group that analyzes project success rates and project management best practices.
 
 2000 standish group study.

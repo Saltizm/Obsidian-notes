@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI369"
+chapter: "Web security"
+concept: "SSL strip"
+---
+
+# SSL strip
+
 ### .
 - A form of [[MITM]] 
 - Exploits browsers defaulting links to http 

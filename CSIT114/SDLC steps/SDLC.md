@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT114"
+chapter: "SDLC stages"
+concept: "SDLC"
+---
+
+# SDLC
+
  SDLC ( system development life cycle ) is a systematic process that helps developers **plan, create, test, deploy, and maintain** software.
 
 ```mermaid

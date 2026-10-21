@@ -1,3 +1,12 @@
+---
+index: true
+course: "JC Computing"
+chapter: "Computing fundamentals"
+concept: "Authentication"
+---
+
+# Authentication
+
 The process or action of verifying the identity of a user or process.
 
 Purpose:
@@ -8,4 +17,4 @@ Common methods:
 - biometrics (faceid, fingerprint etc)
 - digital token (usually sent to another device)
 
-<h5>note : usually 2 or more measures are employed to increase security. This is called 2FA (2 factor authentication)</h5>
+##### note : usually 2 or more measures are employed to increase security. This is called 2FA (2 factor authentication)

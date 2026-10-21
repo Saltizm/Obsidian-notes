@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Security assessment"
+concept: "Internal reconnaissance"
+---
+
+# Internal reconnaissance
+
 - Insider job/trespassing
 - passive (not an active attack)
 - Done within the company's physical systems and networks

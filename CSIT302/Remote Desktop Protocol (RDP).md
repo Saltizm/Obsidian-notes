@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Network security"
+concept: "Remote Desktop Protocol (RDP)"
+---
+
+# Remote Desktop Protocol (RDP)
+
 - Piece of software that allow for remote access to a machine
 
 | Pros                                          | Cons                                             |

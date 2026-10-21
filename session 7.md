@@ -1,3 +1,12 @@
+---
+index: true
+course: "Independent study"
+chapter: "Independent study"
+concept: "session 7"
+---
+
+# session 7
+
 ### Nessus scanner 
 - browser based web scanner/exploitation 
 setup

@@ -1,7 +1,16 @@
+---
+index: true
+course: "CSIT114"
+chapter: "Core definitions"
+concept: "Functionality"
+---
+
+# Functionality
+
 Functionality or functional requirements is
 A set of desired features that strives to solve a problem requested by [[Stakeholders]].
 
-<h3>Action of functional requirement collection and change</h3>
+### Action of functional requirement collection and change
 ```mermaid
 flowchart TD
 id1[Stakeholder request] -->

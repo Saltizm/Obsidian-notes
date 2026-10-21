@@ -1,3 +1,12 @@
+---
+index: true
+course: "ISIT 312"
+chapter: "Big data platforms"
+concept: "Cheatsheet"
+---
+
+# Cheatsheet
+
 The sources detail numerous functions, methods, commands, and operations across various technologies including Hadoop (HDFS, MapReduce, YARN), Hive (HQL, data structures), OLAP concepts, HBase (Shell and Java API), and Spark (RDDs, DataFrames, Streaming).
 
 Below is a comprehensive list of the functions and operational commands mentioned in the provided material, organized by context.

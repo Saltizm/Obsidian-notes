@@ -1,6 +1,15 @@
+---
+index: true
+course: "CSIT224"
+chapter: "Procurement"
+concept: "Outsourcing (Procurement)"
+---
+
+# Outsourcing (Procurement)
+
 Acquisition of good and services from an outside source. 
 
-<h4> reasoning for outsourcing </h4>
+#### reasoning for outsourcing
 
 | Point                                          | Explaination                                                                                                                                                                                                                                      |
 | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -11,14 +20,14 @@ Acquisition of good and services from an outside source.
 | Increase accountability                        | All outsourcing is contractual and accountability on the providing party is legally enforced                                                                                                                                                      |
 
 
-<h4> Conducting procurement </h4>
+#### Conducting procurement
 1. Decide who to ask for the work ([[Cost benefit analysis]])
 2. Send appropriate documentation to potential sellers ([[Scope statement|Statement Of Work(SOW)]])
 3. Obtain bids
 4. Select seller
 5. Award a [[Contract]]
 
-<h4> Controlling procurement </h4>
+#### Controlling procurement
 
 Once a procurement [[Contract]] is signed. Any further verbal/ written acts issues by figures of authority will be considered **Legally binding**
 
@@ -28,9 +37,9 @@ So it is important to:
 
 However some changes are not ideal and will result in [[Risk]].
 
-<h5> Closing procurement </h5>
+##### Closing procurement
 - ensure [[Scope statement|all work are satisfactory]]
 - completing and settling contract
 
-<h4> Modes of procurement </h4>
+#### Modes of procurement
 Crowdsourcing

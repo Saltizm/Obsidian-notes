@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI323"
+chapter: "Artificial intelligence"
+concept: "Image Classification"
+---
+
+# Image Classification
+
 Implementing logic is important in ai safety
 
 ### Machine learning

@@ -1,3 +1,12 @@
+---
+index: true
+course: "MATH 225"
+chapter: "Lectures"
+concept: "beam"
+---
+
+# beam
+
 Low beam
 - Nighttime driving - reduce glare for oncoming drivers
 - Approaching other vehicles - prevent glare for oncoming driver

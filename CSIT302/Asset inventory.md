@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Security governance"
+concept: "Asset inventory"
+---
+
+# Asset inventory
+
 - List of Devices owned by an organisation 
 - Determine possible attack vectors that require [[Security control|security software]]
 ### Use of an asset inventory

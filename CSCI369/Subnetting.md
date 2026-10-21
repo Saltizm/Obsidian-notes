@@ -1,10 +1,19 @@
+---
+index: true
+course: "CSCI369"
+chapter: "Ethical hacking foundations"
+concept: "Subnetting"
+---
+
+# Subnetting
+
 ### . 
 - Separating a network into smaller networks called [[VLAN]] 
 - A portion of bits in the [[IP]] is used to define subnet size (Network bit)
 - Subnet prefix = IP ^(AND) ToSubnetMask(Network bit) 
 
 ### CIDR
-![[CIDR]]
+![[CSCI369/CIDR|CIDR]]
 ### Reserved IP addresses
 
 | IP addr    | Purpose                  |

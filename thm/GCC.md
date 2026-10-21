@@ -1,3 +1,12 @@
+---
+index: true
+course: "thm"
+chapter: "TryHackMe practice"
+concept: "GCC"
+---
+
+# GCC
+
 gcc -(tags) (-flag1 -flag2) -operation path/to path/from
 
 ### Privilege escalation 

@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI316"
+chapter: "Data science skills"
+concept: "Big data project life cycle"
+---
+
+# Big data project life cycle
+
 ![[Pasted image 20260109235025.png]]
 ### Steps of A Typical Real-life Data Mining Project 
 1. Look at the big picture 

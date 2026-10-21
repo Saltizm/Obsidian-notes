@@ -1,3 +1,12 @@
+---
+index: true
+course: "thm"
+chapter: "TryHackMe practice"
+concept: "SQLi"
+---
+
+# SQLi
+
 in-band SQLi
 - you extract where you exploit
 - the query returns the data directly

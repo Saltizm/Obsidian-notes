@@ -1,3 +1,12 @@
+---
+index: true
+course: "thm"
+chapter: "TryHackMe practice"
+concept: "Decryption"
+---
+
+# Decryption
+
 ### IDA 
 - prologue - preparin stack for pushes
 - epilogue - stack unwinding

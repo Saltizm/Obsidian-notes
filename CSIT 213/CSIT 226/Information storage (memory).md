@@ -1,8 +1,17 @@
+---
+index: true
+course: "CSIT 213"
+chapter: "Human-computer interaction"
+concept: "Information storage (memory)"
+---
+
+# Information storage (memory)
+
 - [[Information IO|Sensory]]
 - Short-term(working)
 - Long-term([[mental model]])
 
-<h2>Human Cognitive Architecture</h2>
+## Human Cognitive Architecture
 ==Long term memories== are formed from the repeat reinforcement of a ==**short term memory**== through ==stimulus(sensory)==.
 
 ![[humanmemorymodel.PNG]]

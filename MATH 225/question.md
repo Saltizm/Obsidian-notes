@@ -1,3 +1,12 @@
+---
+index: true
+course: "MATH 225"
+chapter: "Mathematics foundations"
+concept: "question"
+---
+
+# question
+
 Contingent Any statement that is not a tautology and not a contradiction is a contingent or **intermediate**
 what does this mean
 

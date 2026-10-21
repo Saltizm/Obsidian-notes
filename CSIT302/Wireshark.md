@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Network security"
+concept: "Wireshark"
+---
+
+# Wireshark
+
 ### .
 - sniffing tools with a user-friendly interface and powerful packet interpretation
 ### Color coding

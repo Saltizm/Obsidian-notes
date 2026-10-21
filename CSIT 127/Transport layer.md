@@ -1,8 +1,17 @@
+---
+index: true
+course: "CSIT 127"
+chapter: "Network protocols and layers"
+concept: "Transport layer"
+---
+
+# Transport layer
+
 Originally a part of the TCP/IP layer in the TCP model. The [[OSI model]] has adapted it into 2 separate layers. The [[Network layer]] and the [[Transport layer]].
 
 Transport layer is responsible for creating a "virtual connection" between devices to establish a reliable data stream.
 
-<h2>Function</h2>
+## Function
 - To establish connection between 2 devices using [[Network port|port numbers]]
 - Flow control 
 - Reliability

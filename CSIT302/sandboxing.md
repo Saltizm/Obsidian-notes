@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Malware and post-exploitation"
+concept: "sandboxing"
+---
+
+# sandboxing
+
 Executing a file in a virtual environment before it is opened on the host machine.
 
 [[PaaS]] Solutions:

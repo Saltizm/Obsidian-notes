@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT 127"
+chapter: "Signals and transmission media"
+concept: "Signal"
+---
+
+# Signal
+
 A signal is a [[electromagnetic]] or electric current that carries [[Data]]. It is represented in a wave function in a time voltage graph.
 
 A signal has 3 components:

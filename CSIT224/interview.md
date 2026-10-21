@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT224"
+chapter: "Project management"
+concept: "interview"
+---
+
+# interview
+
 
 | method    | advantages               | disadvantage                                   |
 | --------- | ------------------------ | ---------------------------------------------- |

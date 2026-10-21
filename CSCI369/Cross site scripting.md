@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI369"
+chapter: "Web security"
+concept: "Cross site scripting"
+---
+
+# Cross site scripting
+
 ### .
 - XSS is a injection exploit
 - Malicious code is injected into webpages 

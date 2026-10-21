@@ -1,3 +1,12 @@
+---
+index: true
+course: "MATH 225"
+chapter: "Relations"
+concept: "equivalence relations"
+---
+
+# equivalence relations
+
 two relations are equal when they are both:
 - reflexive
 - symmetric

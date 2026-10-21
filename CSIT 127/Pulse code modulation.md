@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT 127"
+chapter: "Signals and transmission media"
+concept: "Pulse code modulation"
+---
+
+# Pulse code modulation
+
 Pulse code modulation is a method to turn [[Analog]] [[signal]] into [[Digital]] [[signal]]s with high fidelity.
 
 **deconstruction**

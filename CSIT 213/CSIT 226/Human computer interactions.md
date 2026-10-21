@@ -1,9 +1,18 @@
+---
+index: true
+course: "CSIT 213"
+chapter: "Human-computer interaction"
+concept: "Human computer interactions"
+---
+
+# Human computer interactions
+
 is a discipline concerned with the [[Design Thinking|design]], [[System analysis (Main)|evaluation]] and implementation of [[Interactive Design|interactive]] computing systems for human use and with the study of major phenomena surrounding them.
 
 To summarise:
 HCI is the study of how people use computers and how we can improve that.
 
-<h2>Anatomy</h2>
+## Anatomy
 [[Human]]
 - end user of computer system
 - sponsor (client) of the computer
@@ -20,7 +29,7 @@ How well a user interacts with a computer is determined by:
 - [[User experience]] (UX)
 - [[User interface]] (UI)
 
-<h2>philosophy</h2>
+## philosophy
 Rationale for HCI:
 - increase productivity
 - accessibility for new users
@@ -39,7 +48,7 @@ No Nos of HCI:
 - generalising your users
 - primary user might not always be the client
 
-<h2>Process</h2>
+## Process
 seek context of use > specify user requirements > create design solutions > evaluate design solutions > repeat
 
 ![[DesignCouncil doublediamond.png]]

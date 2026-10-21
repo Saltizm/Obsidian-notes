@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI316"
+chapter: "Data science skills"
+concept: "Code"
+---
+
+# Code
+
 ![[Pasted image 20260115223256.png]]
 ```py
 from numpy import *

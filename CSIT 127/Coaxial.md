@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT 127"
+chapter: "Signals and transmission media"
+concept: "Coaxial"
+---
+
+# Coaxial
+
 [[wired|Coaxial cable]] consist of a single copper conductor to transmit signals.
 This means it has no internal [[Crosstalk]] and it is able to transmit higher bandwidths.
 

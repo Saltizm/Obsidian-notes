@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Application security"
+concept: "IDOR"
+---
+
+# IDOR
+
 - Insecure direct object references
 - Type of [[Broken access control]] /[[Broken authentication]] exploit ^338fb2
 - Happens when references are made to database that expose internal innerworkings ^bbac9a

@@ -1,3 +1,12 @@
+---
+index: true
+course: "thm"
+chapter: "TryHackMe practice"
+concept: "Unions-based SQLi"
+---
+
+# Unions-based SQLi
+
 union based SQLi works because Unions disregard datatype and only require the second query to match the first query in col count.
 
 ### column enumeration

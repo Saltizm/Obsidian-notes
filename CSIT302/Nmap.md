@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Security assessment"
+concept: "Nmap"
+---
+
+# Nmap
+
 ### .
 - Network mapping software ^e4c51b
 - Uses packets to determine network architecture  ^70e000

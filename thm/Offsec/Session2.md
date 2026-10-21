@@ -1,3 +1,12 @@
+---
+index: true
+course: "thm"
+chapter: "Offensive security"
+concept: "Session2"
+---
+
+# Session2
+
 cybersec assume an adversary 
 - assume levers will be used to execute attacks -> gives insight into methods attacks will use to resort
 prediction > prevention

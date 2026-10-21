@@ -1,3 +1,12 @@
+---
+index: true
+course: "MATH 225"
+chapter: "Relations"
+concept: "Transitivity"
+---
+
+# Transitivity
+
 ![[Pasted image 20250206183612.png]]
 layman:
 for all values in set A, 

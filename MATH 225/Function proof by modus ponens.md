@@ -1,3 +1,12 @@
+---
+index: true
+course: "MATH 225"
+chapter: "Functions"
+concept: "Function proof by modus ponens"
+---
+
+# Function proof by modus ponens
+
 ![[Pasted image 20250209194933.png]]
 Explanation:
 Property 1:

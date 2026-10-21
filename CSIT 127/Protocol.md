@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT 127"
+chapter: "Networking foundations"
+concept: "Protocol"
+---
+
+# Protocol
+
 A protocol is a set of rules for communication between devices​
 
 Protocols control 3 factors:

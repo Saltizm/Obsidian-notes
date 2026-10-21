@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT 127"
+chapter: "Networking foundations"
+concept: "network"
+---
+
+# network
+
 A network is a series of connections between devices.
 how a network is arranged is called a [[Network Topology]]
 

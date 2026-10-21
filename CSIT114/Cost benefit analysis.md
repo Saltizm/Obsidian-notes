@@ -1,6 +1,15 @@
+---
+index: true
+course: "CSIT114"
+chapter: "Systems analysis"
+concept: "Cost benefit analysis"
+---
+
+# Cost benefit analysis
+
 Comparing costs and benefits to see if the net result is plus or minus.
 
-<h4>Types of benefits</h4>
+#### Types of benefits
 
 - Tangible benefits (profit)
 - Intangible benefits
@@ -8,7 +17,7 @@ Comparing costs and benefits to see if the net result is plus or minus.
 	- Opening up new markets
 	- reducing cost of operation
 
-<h4>Overview</h4>
+#### Overview
 Important for [[Obtaining Approval]]
 
 [[Net present value]] -  value at a specific time
@@ -16,9 +25,9 @@ Important for [[Obtaining Approval]]
 [[Payback period]] - period after break even point. PROFIT TIME :D.
 [[Return on investment]] - Earnings after break even point. THE ACTUAL PROFIT.
 
-<h4> Decision making </h4>
+#### Decision making
 
-<h5> Planning Procurement </h5>
+##### Planning Procurement
 Several tools and techniques are available to help [[Project management|project managers]] and their teams in planning [[Outsourcing (Procurement)|procurement]] management
 
 [[Make or buy analysis]]

@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT114"
+chapter: "Systems analysis"
+concept: "Risk"
+---
+
+# Risk
+
 The risk associated with the evolution of the design and the production of the system of interest affecting the level of performance necessary to meet the stakeholder expectations and technical requirements.
 
 Technical risk arises when a project has no [[Project management|executive management]]  
@@ -11,11 +20,11 @@ Risk threat level can be determined through [[Quantitative risk analysis]]
 ### Risk categories
 ![[Risk quadrants drawing]]
 
-<h3> Risk management</h3>
+### Risk management
 
 ![[risk management steps|1000]]
-<h4> Possible responses</h4>
-<h5>Avoidance</h5>
+#### Possible responses
+##### Avoidance
 Taking measures to completely avoid the risk.
 
 **Use case**:
@@ -25,7 +34,7 @@ Taking measures to completely avoid the risk.
 Example:
 Dropping a project that is utilising unstable technology
 
-<h5>Acceptance</h5>
+##### Acceptance
 Accepting the risk and proceed without any measures.
 
 **Use case**:
@@ -36,7 +45,7 @@ Accepting the risk and proceed without any measures.
 Example:
 Accepting the chance of train disruption affecting productivity
 
-<h5> Transference </h5>
+##### Transference
 Transferring the risk onto a willing external entity. 
 
 **Use case**:
@@ -46,7 +55,7 @@ Transferring the risk onto a willing external entity.
 - Buying insurance
 - [[Outsourcing (Procurement)]]
 
-<h5> Mitigation </h5>
+##### Mitigation
 Reduce the impact or likelihood of the risk.
 
 **Use case**:
@@ -74,7 +83,7 @@ Reduce the impact or likelihood of the risk.
 > Residual risk has a low enough probability for this to be a valid risk response.
 
 
-<h4> Monitoring </h4>
+#### Monitoring
 After a Risk has been managed. Regular monitoring of the risk has to be done.
 
 Risk monitoring documents:
@@ -82,7 +91,7 @@ Risk monitoring documents:
 - [[Probability Impact matrix]]
 - [[Top 10 risk item tracking]]
 
-<h5> Purpose </h5>
+##### Purpose
 
 | action             | Reason                                                                         |
 | ------------------ | ------------------------------------------------------------------------------ |
@@ -90,13 +99,13 @@ Risk monitoring documents:
 | Tracking           | Track if current risk have exacerbated or evolved. Changing response if needed |
 | Seek residual risk | Often times residual risk will arise due to oversights                         |
 
-<h4>Risk response types </h4>
-<h5> risk seeking ( high tolerance ) </h5>
+#### Risk response types
+##### risk seeking ( high tolerance )
 Usually budding businesses whereby risk is inevitable due to frequent changes brought about.
 
-<h5> risk neutrality ( balanced )</h5>
+##### risk neutrality ( balanced )
 Usually Established businesses, whereby some risk is not favorable but can still be taken for high payoffs. 
-<h5> risk adverse ( low tolerance )</h5>
+##### risk adverse ( low tolerance )
 Usually banks, government services etc. Whereby risk have high impact and must be avoided at all cost.
 
 ![[utility, potential payoff graph|1000]]

@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Security assessment"
+concept: "Service enumeration"
+---
+
+# Service enumeration
+
 - Tracking of service/infrastructure status  ^9dc321
 	- Scans for active services/infrastructure 
 	- Scans for open ports

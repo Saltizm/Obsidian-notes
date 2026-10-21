@@ -1,3 +1,12 @@
+---
+index: true
+course: "Independent study"
+chapter: "Independent study"
+concept: "exam spec"
+---
+
+# exam spec
+
 nslookup
 ipv6 calc - (lecture 2)
 osi layer 2, 3 

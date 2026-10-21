@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT 213"
+chapter: "Human-computer interaction"
+concept: "Evaluation Action cycle"
+---
+
+# Evaluation Action cycle
+
 It is a breakdown of the interactions between a Human and a computer through a UI. 
 ![[EEC.PNG|500]]
 

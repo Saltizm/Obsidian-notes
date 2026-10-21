@@ -1,3 +1,12 @@
+---
+index: true
+course: "JC Computing"
+chapter: "Computing fundamentals"
+concept: "Digital Signiture"
+---
+
+# Digital Signiture
+
 The process of [[Encryption|encrypting]] a [[Encryption#^068cfa|digest]] with one's private key.
 
 Purpose:

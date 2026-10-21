@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Security governance"
+concept: "Security control"
+---
+
+# Security control
+
 - countermeasures or safeguards against [[Threat Landscape| security threats]]
 ### Standards
 ##### Patch management

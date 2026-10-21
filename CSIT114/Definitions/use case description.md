@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT114"
+chapter: "Core definitions"
+concept: "use case description"
+---
+
+# use case description
+
 ![[use case description.png]]
 Lol we aint fucking using this its ass.
 

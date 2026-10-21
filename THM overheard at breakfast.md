@@ -1,3 +1,12 @@
+---
+index: true
+course: "Independent study"
+chapter: "Cybersecurity practice"
+concept: "THM overheard at breakfast"
+---
+
+# THM overheard at breakfast
+
 ### Overview
 This room is an osint room that is based around a single image attached to the room. The techniques involved are:
 - Google dorking

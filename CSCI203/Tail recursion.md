@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI203"
+chapter: "Recursion and divide-and-conquer"
+concept: "Tail recursion"
+---
+
+# Tail recursion
+
 A recursion is tail if each recursive case:
 - Defines the function outright
 - Calls itself "only" with parameters 

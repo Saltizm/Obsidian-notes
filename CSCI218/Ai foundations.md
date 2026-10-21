@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI218"
+chapter: "Artificial intelligence foundations"
+concept: "Ai foundations"
+---
+
+# Ai foundations
+
 Philosophical - sementic meaning from observation
 Math - boolean programming ( traditional programming )
 Neuroscience - MLP

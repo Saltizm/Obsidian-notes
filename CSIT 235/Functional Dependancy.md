@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT 235"
+chapter: "Functional dependencies"
+concept: "Functional Dependancy"
+---
+
+# Functional Dependancy
+
 IF every value in a column (A) is [[One to one functions|one to one]] onto column (B). 
 A functional dependency can be denoted as the function:
 

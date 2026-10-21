@@ -1,6 +1,15 @@
+---
+index: true
+course: "CSIT114"
+chapter: "Systems analysis"
+concept: "User goal technique"
+---
+
+# User goal technique
+
 User goal technique create use cases by asking the actors what their goals with the system and using the goals to create a general use case.
 
-<h4>Application</h4>
+#### Application
 lets assume the system is a ***supermarket***
 
 I interview the **cashier**.

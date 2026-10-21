@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI203"
+chapter: "Sorting algorithms"
+concept: "insertion sort"
+---
+
+# insertion sort
+
 instruction:
 1. iterate through the unsorted array beginning from the second element
 2. each element is shifted to the left until it is in order. 

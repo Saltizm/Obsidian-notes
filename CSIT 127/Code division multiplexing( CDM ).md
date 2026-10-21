@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT 127"
+chapter: "Signals and transmission media"
+concept: "Code division multiplexing( CDM )"
+---
+
+# Code division multiplexing( CDM )
+
 Code division multiplexing is continuous transmission of all devices on one channel simultaneously.
 
 Three different mobile devices use the following codes:

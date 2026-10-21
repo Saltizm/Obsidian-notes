@@ -1,10 +1,19 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Security foundations"
+concept: "Lateral movement"
+---
+
+# Lateral movement
+
 - attackers find [[Security Vulnerability]] to stage an attack
 - *internal of the target*
 - for the sake of privilege escalation(to gain higher clearance)
 
 ### **Tools**
 #### Metasploit
-![[Metasploit]]
+![[CSIT302/Metasploit]]
 #### Kali Linux
 ![[Kali linux]]
 

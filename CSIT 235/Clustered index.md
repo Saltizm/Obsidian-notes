@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT 235"
+chapter: "Database indexing"
+concept: "Clustered index"
+---
+
+# Clustered index
+
 - index ordered using [[BStar Tree]] directly using the keys ^aeaaf4
 - values has to be unique $\therefore$  [[Primary key]], automatically creates an [[Primary index]]
 - stored locally (in table)

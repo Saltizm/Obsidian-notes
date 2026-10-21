@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI369"
+chapter: "Reconnaissance"
+concept: "Network Pinging"
+---
+
+# Network Pinging
+
 ### .
 - Sweeping ping (sends request to every [[Endpoints|endpoint]])
 - Detectable 

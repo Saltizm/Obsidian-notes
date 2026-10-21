@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT 127"
+chapter: "Networking foundations"
+concept: "Simplex"
+---
+
+# Simplex
+
 Mono-directional signal transfer
 
 Commonly used in monitors, mouse and keyboards.

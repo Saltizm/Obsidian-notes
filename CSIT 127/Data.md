@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT 127"
+chapter: "Networking foundations"
+concept: "Data"
+---
+
+# Data
+
 Data are entities that convey meaning.
 The type of information it can represent is separated into types.
 - [[Text]]

@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Security governance"
+concept: "Password policy"
+---
+
+# Password policy
+
 - A strong password consist of 
 	- Multi character
 	- More than 12 characters

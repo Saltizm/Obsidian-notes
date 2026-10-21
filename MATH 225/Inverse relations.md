@@ -1,3 +1,12 @@
+---
+index: true
+course: "MATH 225"
+chapter: "Relations"
+concept: "Inverse relations"
+---
+
+# Inverse relations
+
 
 ![[Pasted image 20250206121121.png]]
 Laymen:

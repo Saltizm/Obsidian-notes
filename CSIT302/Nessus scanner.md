@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Security assessment"
+concept: "Nessus scanner"
+---
+
+# Nessus scanner
+
 **Nessus** is a **vulnerability scanner** developed by Tenable, widely used by security professionals to identify vulnerabilities, misconfigurations, and compliance issues in networks, servers, and applications.
 
 ---

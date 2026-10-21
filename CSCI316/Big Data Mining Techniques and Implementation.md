@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI316"
+chapter: "Big data and data mining"
+concept: "Big Data Mining Techniques and Implementation"
+---
+
+# Big Data Mining Techniques and Implementation
+
 Big Data refers to **Large** and **Complex** datasets. Cannot be stored or processed effectively in a single machine.
 
 Factors for Big data (input):

@@ -1,3 +1,12 @@
+---
+index: true
+course: "JC Computing"
+chapter: "Computing fundamentals"
+concept: "Binary Search Tree"
+---
+
+# Binary Search Tree
+
 A [[Non-Linear]] data structure whose entires follow a [[hierarchical organisation]].
 
 Anatomy of a BST:

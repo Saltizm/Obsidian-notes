@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT 235"
+chapter: "Database indexing"
+concept: "Index Data structure"
+---
+
+# Index Data structure
+
 - Index organise data hierarchically 
 - Map keys (on a [[B* Tree]]) to values 
 - Sort according to frequency of retrieval 

@@ -1,3 +1,12 @@
+---
+index: true
+course: "Independent study"
+chapter: "Assignments"
+concept: "Assignment1 Ransomware"
+---
+
+# Assignment1 Ransomware
+
 ### Outline
 Task requires a symmetrical encryption of the file my_secrets. The script will first encrypt the file and produce an encrypted symmetric key. It will then prompt the user for ransom of 10k and promising the decryption of file after.
 

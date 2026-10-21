@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT 127"
+chapter: "Networking foundations"
+concept: "Analog"
+---
+
+# Analog
+
 Continuously changing values. Usually within a range.
 All Analog signal can be broken down into a combination of [[Sine waves]] through a [[Fourier transformation]].
 

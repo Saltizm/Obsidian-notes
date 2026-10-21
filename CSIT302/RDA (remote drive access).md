@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Security foundations"
+concept: "RDA (remote drive access)"
+---
+
+# RDA (remote drive access)
+
 - Remote boot from a external drive
 - Using ubuntu select **Try ubuntu*** instead of **install ubuntu**
 - Once booted, files are accessible 

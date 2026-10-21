@@ -1,8 +1,17 @@
+---
+index: true
+course: "CSIT114"
+chapter: "Development methodologies"
+concept: "Spiral"
+---
+
+# Spiral
+
 Spiral is one of the first instance of an adaptive system development methodology. 
 In addition to [[SDLC]] they have added a "Risk analysis" 
 
 
-<h4> Implementation</h4>
+#### Implementation
 
 ![[Pasted image 20240305224732.png]]
 Effort on system development is spread across different "Spirals" that will produce a deliverable product

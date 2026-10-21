@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI203"
+chapter: "Data structures"
+concept: "B tree"
+---
+
+# B tree
+
 - [[Self balancing tree]], [[M way tree]]
 - Common implementation is the 2-4 tree
 

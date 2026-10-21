@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI218"
+chapter: "Tutorials"
+concept: "quiz 1"
+---
+
+# quiz 1
+
 Lab1A_Q20_OffDiagonal_Meaning
 Large off-diagonal counts in a confusion matrix primarily indicate:
 Question 1Answer

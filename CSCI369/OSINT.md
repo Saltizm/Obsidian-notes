@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI369"
+chapter: "Reconnaissance"
+concept: "OSINT"
+---
+
+# OSINT
+
 - Open source intelligence (OS INT) 
 - Act of gathering information from public resources:
 	- Phone books

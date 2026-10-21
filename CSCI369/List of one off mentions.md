@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI369"
+chapter: "Ethical hacking foundations"
+concept: "List of one off mentions"
+---
+
+# List of one off mentions
+
 DMitry
 - Unix toolbox for [[External reconnaissance]]
 - contains:

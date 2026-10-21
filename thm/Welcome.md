@@ -1,3 +1,12 @@
+---
+index: true
+course: "thm"
+chapter: "TryHackMe practice"
+concept: "Welcome"
+---
+
+# Welcome
+
 This is your new *vault*.
 
 Make a note of something, [[GCC]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!

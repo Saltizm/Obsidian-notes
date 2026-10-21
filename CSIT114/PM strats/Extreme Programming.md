@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT114"
+chapter: "Development methodologies"
+concept: "Extreme Programming"
+---
+
+# Extreme Programming
+
 Extreme programming(  XP ) focuses on taking the *best practices* in system development to the extreme.
 
  XP focuses on high user involvement and implement features *ad hoc*.
@@ -38,7 +47,7 @@ Extreme programming(  XP ) focuses on taking the *best practices* in system deve
 	- Collaborative process for scheduling 
 	- All members have equal say in what to implement next iteration
 
-<h4>Use cases</h4>
+#### Use cases
 **High volatility** - When the project is expected to have frequent changes in demands or is unfamiliar 
 
 **Involved stakeholders** - Can support frequent feedbacks and prototypes. Suitable for projects that require close collaboration with the customer/[[Stakeholders]]. 

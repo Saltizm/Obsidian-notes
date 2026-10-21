@@ -1,6 +1,15 @@
+---
+index: true
+course: "CSIT114"
+chapter: "Systems analysis"
+concept: "Project management"
+---
+
+# Project management
+
 Project management is organizing and directing other people to achieve a planned result within a predetermined schedule and budget.
 
-<h4>Purpose</h4>
+#### Purpose
 PM is important to the success of the project. 
 As shown in 1990 [[CHAOS report]].
 
@@ -15,7 +24,7 @@ As shown in 1990 [[CHAOS report]].
 The enthusiasm/skill of developers and employees is not one of the main success factors.
 Most factors are controlled by the project manager. 
 
-<h4>Responsibility of a project manager</h4>
+#### Responsibility of a project manager
 - Internally:
 	- Develop [[Resource management plan|project schedule]]
 	- Recruitment and training
@@ -27,7 +36,7 @@ Most factors are controlled by the project manager.
 	- Working directly with clients 
 	- [[requirement|Identifying needs]] and obtaining resources
 
-<h5> Skills required of a project manager</h5>
+##### Skills required of a project manager
 ![[PM skill triangle]]
 **[[Leadership]]**
 Ability to lead with confidence
@@ -39,7 +48,7 @@ Ability to track and upkeep a project
 How well is resources allocated. Accurate predictions of future conditions.
 
 
-<h4> Advantages of PM </h4>
+#### Advantages of PM
 - Better control of financial, physical and human resources  
 - Improved customer relations  
 - Shorter development times  
@@ -49,5 +58,5 @@ How well is resources allocated. Accurate predictions of future conditions.
 - Better internal coordination  
 - Positive impact on meeting strategic goals  
 - Higher worker morale
-<h3> Overview</h3>
+### Overview
 project is part of a collective called a [[Program]]

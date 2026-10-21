@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI316"
+chapter: "Big data and data mining"
+concept: "out of hand remarks"
+---
+
+# out of hand remarks
+
 Project metrics 
 - Good visualisation 
 - Stringent Constraints and conditions (questions every assumption)

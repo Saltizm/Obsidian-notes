@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT 127"
+chapter: "Network architecture"
+concept: "Bus"
+---
+
+# Bus
+
 A network Topology consisting of devices connected to a single *coaxial cable*.
 
 ![[BusTopology.PNG|500]]

@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT 127"
+chapter: "Signals and transmission media"
+concept: "wireless"
+---
+
+# wireless
+
 Wireless data transmission rely on the the [[electromagnetic]] spectrum.
 
 | media type | bandwidth     | performance (MBps)  | repeater spacing |

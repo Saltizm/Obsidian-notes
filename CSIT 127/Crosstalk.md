@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT 127"
+chapter: "Networking foundations"
+concept: "Crosstalk"
+---
+
+# Crosstalk
+
 Crosstalk is unwanted signals in a communication channel(ie telephone, radio) caused by transference of energy from another wire.
 
 There are two ways this can happen:

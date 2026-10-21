@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Network security"
+concept: "Network Switch"
+---
+
+# Network Switch
+
 - A switch is a more robust version of a [[Network Hub]] ^47ff31
 - It stores an [[Access Control List]] 
 - Each [[MTU]](packet) is sent to the recipient instead of to every [[computers|Computer]] on the [[network]]

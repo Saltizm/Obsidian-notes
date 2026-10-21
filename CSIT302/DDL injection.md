@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Application security"
+concept: "DDL injection"
+---
+
+# DDL injection
+
 [[DDL]] injection refers to a technique used to force a **Running process** to run a [[DDL]] (dynamic link library)
 
 ### Techniques
@@ -14,7 +23,7 @@ Malware(advanced)
 ### Reflective DLL injection
 - Loads DDL directly from memory
 *used by*
-[[Metasploit]], Cobalt Strike
+[[CSIT302/Metasploit|Metasploit]], Cobalt Strike
 
 #### SetWindowsHookEx
 - Injects via windows message hooks

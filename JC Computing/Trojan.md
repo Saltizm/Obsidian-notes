@@ -1,3 +1,12 @@
+---
+index: true
+course: "JC Computing"
+chapter: "Cybersecurity threats"
+concept: "Trojan"
+---
+
+# Trojan
+
 ### .
 - Malwares spread as legitimate application, but carries malicious code
 - Spread through [[social engineering]] **

@@ -1,3 +1,12 @@
+---
+index: true
+course: "thm"
+chapter: "TryHackMe practice"
+concept: "Blue"
+---
+
+# Blue
+
 nmap -sV -vv --script vuln TARGET_IP
 - sV : version scan
 - --script (new) 
@@ -8,7 +17,7 @@ nmap -sV -vv --script vuln TARGET_IP
 	- brute : bruteforce attack
 
 
-# Notes
+## Notes
 Attack process
 - nmap scan
 - metasploit payload and exploit

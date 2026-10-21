@@ -1,3 +1,12 @@
+---
+index: true
+course: "42sg"
+chapter: "Developer tools"
+concept: "C"
+---
+
+# C
+
 data types 
 ssize_t - functions
 

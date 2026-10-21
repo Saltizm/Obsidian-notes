@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI203"
+chapter: "Algorithm analysis"
+concept: "Questions"
+---
+
+# Questions
+
 %% Tail recursion:
 what does ""defines the function outright (base cases)"" mean. %%
 

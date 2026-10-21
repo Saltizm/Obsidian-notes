@@ -1,3 +1,12 @@
+---
+index: true
+course: "MATH 225"
+chapter: "Functions"
+concept: "One to one functions"
+---
+
+# One to one functions
+
 A one to one function is a function that maps at most once a value onto another value. 
 ![[Pasted image 20250209195857.png]]
 

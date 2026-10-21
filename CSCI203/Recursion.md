@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI203"
+chapter: "Recursion and divide-and-conquer"
+concept: "Recursion"
+---
+
+# Recursion
+
 `recursive algorithms are methods used in computer science to helps in solving complex problems by breaking them into smaller subproblems.
 
 Recursive solutions work as a a basis for [[Dynamic Programming]] and [[Divide and Conquer]] algorithms.

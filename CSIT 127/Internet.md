@@ -1,7 +1,16 @@
+---
+index: true
+course: "CSIT 127"
+chapter: "Networking foundations"
+concept: "Internet"
+---
+
+# Internet
+
 The internet is the largest [[WAN]]. 
 Consisting of all participating [[LAN]] interconnected. The internet allow any 2 computers to communicate if they are connected to it.
 
-<h2>Anatomy</h2>
+## Anatomy
 [[URL]] is the address of websites
 [[HTML]] is the language used to create documents that display websites
 [[HTTP]] is the [[Web protocol]] to transfer information between web server and devices
@@ -12,7 +21,7 @@ Consisting of all participating [[LAN]] interconnected. The internet allow any 2
 [[Extranet]]
 
 
-<h2>Services</h2>
+## Services
 #### Application layer
 - SMTP
 - [[FTP]]

@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI369"
+chapter: "Reconnaissance"
+concept: "DNS poisoning"
+---
+
+# DNS poisoning
+
 ### .
 - Changing DNS records to redirect network traffic
 - Make use of firewall leaving port 53 open for [[CSIT302/DNS]] queries to bypass firewall

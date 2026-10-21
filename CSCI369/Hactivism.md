@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI369"
+chapter: "Threat actors and cybercrime"
+concept: "Hactivism"
+---
+
+# Hactivism
+
 - Using online media to **mobilise** people to conventional lobbying (writing to legislators, signature for cause etc.)
 - Wide scope of motivation
 - Ranges from **Specific causes** or **Political opinions**

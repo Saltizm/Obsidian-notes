@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI316"
+chapter: "Big data and data mining"
+concept: "Job prospects"
+---
+
+# Job prospects
+
 ### Data Scientist 
 - analyse and model data
 - make prediction 

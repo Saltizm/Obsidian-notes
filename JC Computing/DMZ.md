@@ -1,3 +1,12 @@
+---
+index: true
+course: "JC Computing"
+chapter: "Network security"
+concept: "DMZ"
+---
+
+# DMZ
+
 DMZ (Demilitarised zone) or Perimeter networks are servers hosted with light protection outside of the main firewall.
 
 Purpose:

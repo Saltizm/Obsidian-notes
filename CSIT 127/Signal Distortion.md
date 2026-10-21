@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT 127"
+chapter: "Signals and transmission media"
+concept: "Signal Distortion"
+---
+
+# Signal Distortion
+
 During transmission, [[Signal]] can be distorted by external factors such as [[induction|E.M.F]] and other [[Signal|Signals]].  
 
 ![[originalsignal.PNG|300]] ![[distortedsignal.PNG|300]]

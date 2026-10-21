@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT 213"
+chapter: "Human-computer interaction"
+concept: "Information IO"
+---
+
+# Information IO
+
 - Visual
 	- 2 stage process
 		- reception

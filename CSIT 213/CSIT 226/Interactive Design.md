@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT 213"
+chapter: "Human-computer interaction"
+concept: "Interactive Design"
+---
+
+# Interactive Design
+
 Designing interactive products to support the way people communicate and interact in their everyday and working lives
 ![[interactive design.PNG]]
 

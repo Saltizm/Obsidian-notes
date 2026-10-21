@@ -1,3 +1,12 @@
+---
+index: true
+course: "thm"
+chapter: "Offensive security"
+concept: "Session 6"
+---
+
+# Session 6
+
 ### Vuln scanner
 - Host discovery - determine host that are reachable and responsive/unresponsive
 - [[CVE(Malware and exploits)]] - exploits

@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI218"
+chapter: "Tutorials"
+concept: "lab 3"
+---
+
+# lab 3
+
 Colour histogram - binning of RGB values for a image
 Purpose - Easier data processing. Flattening would result in a smaller input array
 

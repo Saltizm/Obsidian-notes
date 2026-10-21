@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Detection and response"
+concept: "Red team"
+---
+
+# Red team
+
 - The attackers in an [[Attack simulation]]
 - Meant to perform [[Pen testing]]
 ### Factor for performance

@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT 127"
+chapter: "Addressing and routing"
+concept: "packet forwarding"
+---
+
+# packet forwarding
+
 the relaying of packets between network segments via nodes (intermediate routers) in a network.
 
 Type of packet forwarding:

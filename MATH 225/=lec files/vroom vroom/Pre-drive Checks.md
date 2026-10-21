@@ -1,4 +1,13 @@
-<h2>Exterior</h2>
+---
+index: true
+course: "MATH 225"
+chapter: "Lectures"
+concept: "Pre-drive Checks"
+---
+
+# Pre-drive Checks
+
+## Exterior
 light Check:
 - Exterior light
 - headlight
@@ -23,5 +32,5 @@ Vehicle body:
 - under
 	- obstacles
 	- fluid leaks
-<h2> Engine compartment </h2>
+## Engine compartment
 ![[Pasted image 20241222171523.png]]

@@ -1,6 +1,15 @@
+---
+index: true
+course: "CSIT 127"
+chapter: "Network protocols and layers"
+concept: "URL"
+---
+
+# URL
+
 Uniform Resource Locator is an addressed used to find every document on the internet.
 
-<h2>Anatomy</h2>
+## Anatomy
 ![[URL anatomy.png]]
 
 Protocol:

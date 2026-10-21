@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Security foundations"
+concept: "Compromised OS"
+---
+
+# Compromised OS
+
 - Malicious Insiders within the system
 
 ### Methods

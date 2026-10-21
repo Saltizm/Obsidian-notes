@@ -1,3 +1,12 @@
+---
+index: true
+course: "JC Computing"
+chapter: "Network security"
+concept: "Network Protection"
+---
+
+# Network Protection
+
 ![[Transfer Protocol]]
 
 
@@ -5,7 +14,7 @@
 
 ![[IDS and IPS]] 
 
-<h4>note: these mechanisms can be combined to form UTM (unified threat management) or next gen firewalls</h4>
+#### note: these mechanisms can be combined to form UTM (unified threat management) or next gen firewalls
 
 ![[DMZ]]
 

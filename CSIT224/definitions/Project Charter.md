@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT224"
+chapter: "Project management definitions"
+concept: "Project Charter"
+---
+
+# Project Charter
+
 Project Charter is a document that formally declares the existence( beginning ) of a project. 
 
 

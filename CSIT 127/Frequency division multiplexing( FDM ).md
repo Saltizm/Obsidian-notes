@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT 127"
+chapter: "Signals and transmission media"
+concept: "Frequency division multiplexing( FDM )"
+---
+
+# Frequency division multiplexing( FDM )
+
 The bandwidth is split into sections( bands ) to transfer [[Signal]] from multiple devices continuously.
 
 ![[FDM.PNG]]

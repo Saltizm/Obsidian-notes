@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT 235"
+chapter: "Database design"
+concept: "BCNF"
+---
+
+# BCNF
+
 - Satisfy [[2NF]]
 - Automatically will satisfy [[3NF]] upon normalizing to **BCNF**
 - Cannot have non-trivial dependency relations 

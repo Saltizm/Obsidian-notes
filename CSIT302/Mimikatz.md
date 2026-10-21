@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Malware and post-exploitation"
+concept: "Mimikatz"
+---
+
+# Mimikatz
+
 - Mimikatz is a credential dumping software 
 - Extracts from [[Random access memory|memory]]
 ### Features

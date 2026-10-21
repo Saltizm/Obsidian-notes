@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT114"
+chapter: "SDLC stages"
+concept: "Obtaining Approval"
+---
+
+# Obtaining Approval
+
 ```mermaid
 ---
 title: SDLC steps
@@ -14,8 +23,8 @@ id7[Complete system tests and the deploy solution]
 style id1 fill:black
 ```
 
-<h3>Gather detailed information</h3>
-<h4>How?</h4>
+### Gather detailed information
+#### How?
 - Interview 
 - questionnaires
 - reading documents and reports
@@ -24,13 +33,13 @@ style id1 fill:black
 - comments and suggestions
 
 
-<h4>Project Approval factors</h4>
+#### Project Approval factors
 - Estimated time of completion
 - Estimated cost of development
 - Estimated cost for support 
 - [[Cost benefit analysis]]
 
-<h4>Steps to review clients and obtain approval</h4>
+#### Steps to review clients and obtain approval
 1. Executive committee review and approve
 2. Board must review and approve for very large projects] 
 3. Involved [[stakeholders]] need to understand what is expected of them] 

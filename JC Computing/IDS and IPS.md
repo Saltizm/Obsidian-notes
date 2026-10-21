@@ -1,3 +1,12 @@
+---
+index: true
+course: "JC Computing"
+chapter: "Network security"
+concept: "IDS and IPS"
+---
+
+# IDS and IPS
+
 A two stage surveillance system that is situated at the *perimeter* of a network to protect against dubious packets. ^352b9f
 ### Types
 - Behavior based: Detection through trends --> Automated by machine learning
@@ -43,12 +52,12 @@ A two stage surveillance system that is situated at the *perimeter* of a network
 
 ![[ips n ids illust.png]]
 
-### Examples
-| Name                                         | IDS/IPS | type           | notes                                                    |
-| -------------------------------------------- | ------- | -------------- | -------------------------------------------------------- |
-| [[UEBA]] (user and entity behavior analysis) | IDS     | Behavior based | Used in ATA(microsoft advanced threat analytics)         |
-| NTA (network traffic analysis)               | IDS     | Behavior based | detects both inbound, outbound and intra-network traffic |
-|                                              | IPS     | Rule based     |                                                          |
-
-^4bf4ad
-
+> [!example]- Example
+> | Name                                         | IDS/IPS | type           | notes                                                    |
+> | -------------------------------------------- | ------- | -------------- | -------------------------------------------------------- |
+> | [[UEBA]] (user and entity behavior analysis) | IDS     | Behavior based | Used in ATA(microsoft advanced threat analytics)         |
+> | NTA (network traffic analysis)               | IDS     | Behavior based | detects both inbound, outbound and intra-network traffic |
+> |                                              | IPS     | Rule based     |                                                          |
+>
+> ^4bf4ad
+>

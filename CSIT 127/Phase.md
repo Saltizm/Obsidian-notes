@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT 127"
+chapter: "Signals and transmission media"
+concept: "Phase"
+---
+
+# Phase
+
 The position of a waveform relative to a given moment of time or relative to time zero( t=0 ).
 
 notated in angles. Commonly in increments of 45°.

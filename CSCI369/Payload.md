@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI369"
+chapter: "Exploitation techniques"
+concept: "Payload"
+---
+
+# Payload
+
 ### .
 - The actual code that executes on the target system after an exploit successfully executes
 ### Types of payloads
@@ -11,11 +20,11 @@
 #### Stages
 - Payload components  
 - windows/===shell===/bind_tcp
-### Examples
-
-##### Ransomware
-- Stager and stages
-![[Ransomware#^7c991b]]
-#### Trojan
-- Singles
-![[Trojan#.]]
+> [!example]- Example
+>
+> ##### Ransomware
+> - Stager and stages
+> ![[Ransomware#^7c991b]]
+> #### Trojan
+> - Singles
+> ![[Trojan#.]]

@@ -1,3 +1,12 @@
+---
+index: true
+course: "MATH 225"
+chapter: "Relations"
+concept: "Reflexivity"
+---
+
+# Reflexivity
+
 ![[Pasted image 20250206122039.png]]
 layman:
 when every ordered pair is related to itself for every value in a set. 

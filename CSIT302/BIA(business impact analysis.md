@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT302"
+chapter: "Security governance"
+concept: "BIA(business impact analysis"
+---
+
+# BIA(business impact analysis
+
 - [[Incidence response|recovery strategies]] Triage.
 ### Steps
 ID critical IT resources $\rightarrow$ ID disruption impact $\rightarrow$ Develop recovery priority

@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT114"
+chapter: "Systems analysis"
+concept: "Project management strategies"
+---
+
+# Project management strategies
+
 **detailed daily schedules:**
 Within an iteration, the schedule that lists, organizes, and describes the dependencies of the detailed work tasks done *Today*.
 

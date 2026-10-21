@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT 127"
+chapter: "Network architecture"
+concept: "repeater"
+---
+
+# repeater
+
 A repeater is a device that increases the [[Amplitude]] of a signal.
 It is used during transmission of signals through long distances.
 

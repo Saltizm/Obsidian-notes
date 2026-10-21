@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT 127"
+chapter: "Signals and transmission media"
+concept: "Twisted-Pair"
+---
+
+# Twisted-Pair
+
 [[wired|Twisted-pair]] cables have a core consisting of 2 wires that are twisted.
 
 | pros                     | cons                                    |

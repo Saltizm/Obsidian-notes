@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT 127"
+chapter: "Network architecture"
+concept: "WAN"
+---
+
+# WAN
+
 Wide Area Network( WAN ) consist of many [[LAN]] interconnected spanning multi-continentally( 1000+km ).
 
 WAN are connected through data centers using heavy and expensive *Submarine cables*.

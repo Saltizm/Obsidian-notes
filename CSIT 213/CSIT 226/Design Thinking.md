@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSIT 213"
+chapter: "Human-computer interaction"
+concept: "Design Thinking"
+---
+
+# Design Thinking
+
 is a design methodology that
 provides a solution-based approach to solving
 problems. It’s extremely useful in tackling complex
@@ -10,7 +19,7 @@ testing.
 
 _Holy shit who tf wrote these shitty ass definitions_
 
-<h2>Anatomy</h2>
+## Anatomy
 
 Design ultimately is a game of balancing between different solutions:
 Every solution has an ***Opportunity Cost*** which is

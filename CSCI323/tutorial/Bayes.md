@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI323"
+chapter: "Tutorials"
+concept: "Bayes"
+---
+
+# Bayes
+
 - Comparison to CSP
 	- CSP
 		- constraint based 
@@ -12,15 +21,15 @@
 - bayesian network is a **joint distrubution** over X as a product of **local conditional distrubutions**
 - Immediately write down the joint dist of the DAG (dag representation)
 - LIST the parents and child!!!! to avoid mistakes
-##### Example
-![[Pasted image 20251121024242.png]]
-bayesian network = joint probability of all events
-
-C, A - no parents, P(C/A)
-H - parents are C and A. P(C|A, C)
-I - parent is A. P(I|A)
-
-P(C|A,C) = P(C|P(A)xP(C)) = \[P(AnC) x P(A)\]/P(AnC) 
+> [!example]- Example
+> ![[Pasted image 20251121024242.png]]
+> bayesian network = joint probability of all events
+>
+> C, A - no parents, P(C/A)
+> H - parents are C and A. P(C|A, C)
+> I - parent is A. P(I|A)
+>
+> P(C|A,C) = P(C|P(A)xP(C)) = \[P(AnC) x P(A)\]/P(AnC)
 ##### Step 2
 - Write down the conditional probability table (CPT)
 - ![[Pasted image 20251121024852.png]]

@@ -1,3 +1,12 @@
+---
+index: true
+course: "CSCI323"
+chapter: "Artificial intelligence"
+concept: "IMPORTANT"
+---
+
+# IMPORTANT
+
 ![[Pasted image 20251119031603.png]]
 declaration for [[MDP]]
 
