@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "session 9"
             }
+          },
+          {
+            "id": "dc58bdd447be288f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thm/Offsec/session 9.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "session 9"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -188,7 +202,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "90132b418fbfe4f4",
+  "active": "dc58bdd447be288f",
   "lastOpenFiles": [
     "Master Directory.md",
     "Meeting minute 4.md",
