@@ -160,3 +160,19 @@ works with:
 	- powershell -enc \<hash\>
 	- which is html encoded into
 	- powershell%20-enc%20\<hash\>
+**non executable files**
+- perform directory traversal using file name injection
+- example
+	- upload file containing ssh private key
+	- burpsuit intercept and repeater change the file name to /../../../../../root/.ssh/authorized_keys to add our keys to it using directory traversal
+	- chmod 700 key.txt and use it as a key using -i flag to ssh to root user
+### command injection
+- (dir 2>&1 *`|echo CMD);&<# rem #>echo PowercShell
+- 
+
+>takeaway
+>dedicated web servers often runs with root/admin privileges as develops want to prevents permission issues
+>shell stablisation
+>python3 -c 'import pty; pty.spawn("/bin/bash")'
+
+

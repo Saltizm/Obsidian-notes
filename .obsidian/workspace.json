@@ -48,6 +48,18 @@
               "icon": "lucide-file",
               "title": "session 9"
             }
+          },
+          {
+            "id": "4a0dbaaeab3e6177",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.0"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.15.0"
+            }
           }
         ],
         "currentTab": 2
@@ -198,7 +210,6 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
